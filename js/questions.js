@@ -54,3 +54,18 @@ function goHome() {
     window.location.href = "index.html";
   }, 300);
 }
+/* ===== View Button Ripple ===== */
+document.querySelectorAll(".view-btn").forEach(btn => {
+  btn.addEventListener("click", e => {
+    const ripple = document.createElement("span");
+    ripple.className = "ripple";
+
+    const rect = btn.getBoundingClientRect();
+    ripple.style.left = `${e.clientX - rect.left}px`;
+    ripple.style.top = `${e.clientY - rect.top}px`;
+
+    btn.appendChild(ripple);
+
+    setTimeout(() => ripple.remove(), 600);
+  });
+});

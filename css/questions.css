@@ -202,3 +202,97 @@ body {
   font-weight: 600;
   opacity: 0.7;
 }
+/* ===== View Button ===== */
+.view-btn {
+  position: relative;
+  overflow: hidden;
+
+  padding: 14px 22px;
+  border-radius: 14px;
+  border: none;
+
+  background: linear-gradient(135deg, #2bb673, #1f8f6a);
+  color: #fff;
+
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+
+  box-shadow: 0 10px 25px rgba(43,182,115,0.4);
+
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    background 0.3s ease;
+
+  animation: viewEnter 0.5s ease forwards;
+}
+
+/* دخول الزر */
+@keyframes viewEnter {
+  from {
+    opacity: 0;
+    transform: translateY(15px) scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Hover */
+.view-btn:hover {
+  transform: translateY(-3px) scale(1.05);
+  box-shadow: 0 15px 35px rgba(43,182,115,0.6);
+}
+
+/* Click */
+.view-btn:active {
+  transform: scale(0.95);
+}
+/* Ripple */
+.view-btn .ripple {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background: rgba(255,255,255,0.6);
+  border-radius: 50%;
+  transform: scale(0);
+  animation: rippleAnim 0.6s ease-out;
+  pointer-events: none;
+}
+
+@keyframes rippleAnim {
+  to {
+    transform: scale(6);
+    opacity: 0;
+  }
+}
+/* ===== Pulse Animation ===== */
+@keyframes viewPulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(43, 182, 115, 0.6);
+    transform: scale(1);
+  }
+  50% {
+    box-shadow: 0 0 0 14px rgba(43, 182, 115, 0);
+    transform: scale(1.04);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(43, 182, 115, 0);
+    transform: scale(1);
+  }
+}
+
+/* تشغيل الـ Pulse */
+.view-btn {
+  animation:
+    viewEnter 0.5s ease forwards,
+    viewPulse 2s infinite;
+}
+
+/* وقف الـ Pulse عند التفاعل */
+.view-btn:hover,
+.view-btn:active {
+  animation: none;
+}

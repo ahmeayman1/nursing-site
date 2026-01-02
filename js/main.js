@@ -68,3 +68,19 @@ document.querySelectorAll(".page-link").forEach(link => {
     }, 400);
   });
 });
+/* ===== Card Scroll Reveal ===== */
+const cards = document.querySelectorAll(".card");
+
+const cardObserver = new IntersectionObserver(
+  entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("show");
+        cardObserver.unobserve(entry.target); // يظهر مرة واحدة
+      }
+    });
+  },
+  { threshold: 0.2 }
+);
+
+cards.forEach(card => cardObserver.observe(card));
