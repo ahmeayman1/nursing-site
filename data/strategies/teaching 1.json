@@ -458,5 +458,47 @@
   "options": ["True", "False"],
   "answer": "True",
   "type": "True/False"
-}
+},
+  {
+    "question": "Choose the correct answer: What is the definition of Blended Learning?",
+    "options": [
+      "Learning only through traditional face-to-face methods.",
+      "Combining traditional face-to-face classroom teaching with online learning activities.",
+      "Studying entirely through digital modules without teacher guidance.",
+      "Using only textbooks inside the classroom."
+    ],
+    "answer": "Combining traditional face-to-face classroom teaching with online learning activities"
+  },
+  {
+    "question": "True or False: Blended learning provides flexibility while maintaining the benefits of direct interaction.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+    "question": "Choose the correct answer: Which of the following is considered a disadvantage of Blended Learning?",
+    "options": [
+      "It supports different learning styles.",
+      "It improves the use of classroom and technology resources.",
+      "It may increase teacher workload because of managing both systems.",
+      "It enhances student motivation and engagement."
+    ],
+    "answer": "It may increase teacher workload because of managing both systems"
+  },
+  {
+    "question": "True or False: In Blended Learning, technology and internet access are optional and not essential.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "type": "True/False"
+  },
+  {
+    "question": "Choose the correct answer: For effective use of this method, classroom time should be used for:",
+    "options": [
+      "Assigning initial pre-reading quizzes.",
+      "Independent self-paced study only.",
+      "Deeper discussion, clarification, and practice.",
+      "Reading the modules for the first time."
+    ],
+    "answer": "Deeper discussion, clarification, and practice"
+  }
 ]
