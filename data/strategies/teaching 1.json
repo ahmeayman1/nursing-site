@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which of the following is the most important link in the total teaching-learning chain?",
+    "options": ["The textbook", "The teaching method", "The classroom size", "The school building"],
+    "answer": "The teaching method"
+  },
+  {
+    "question": "A systematic, organized technique used by educators to deliver knowledge is defined as:",
+    "options": ["Curriculum", "Syllabus", "Teaching method", "Lesson plan"],
+    "answer": "Teaching method"
+  },
+  {
+    "question": "Which teaching method is categorized as \"Teacher-Centered\"?",
+    "options": ["Brainstorming", "Role Play", "Lecture", "Problem-based learning"],
+    "answer": "Lecture"
+  },
+  {
+    "question": "What is a primary benefit of using effective teaching methods?",
+    "options": ["Reducing teacher's salary", "Increasing motivation", "Making the syllabus longer", "Replacing the teacher with AI"],
+    "answer": "Increasing motivation"
+  },
+  {
+    "question": "Which factor influences the selection of a teaching method?",
+    "options": ["Educational objectives", "Color of the textbook", "Student's age only", "Weather conditions"],
+    "answer": "Educational objectives"
+  },
+  {
+    "question": "The lecture method is best described as:",
+    "options": ["Two-way communication", "Student-centered", "Teacher-centered", "Practice-based"],
+    "answer": "Teacher-centered"
+  },
+  {
+    "question": "What is the recommended maximum duration for a short lecture?",
+    "options": ["10-15 minutes", "30-45 minutes", "60-90 minutes", "2 hours"],
+    "answer": "30-45 minutes"
+  },
+  {
+    "question": "In which step of the lecture method does the teacher state the objectives?",
+    "options": ["Preparation", "Introduction", "Presentation", "Evaluation"],
+    "answer": "Introduction"
+  },
+  {
+    "question": "A major disadvantage of the lecture method is:",
+    "options": ["It covers small content", "It is expensive", "It promotes passive learning", "It is hard to organize"],
+    "answer": "It promotes passive learning"
+  },
+  {
+    "question": "The Discussion method emphasizes:",
+    "options": ["One-way communication", "Dialogue and exchange of ideas", "Silent note-taking", "Teacher being the sole source of knowledge"],
+    "answer": "Dialogue and exchange of ideas"
+  },
+  {
+    "question": "Which type of discussion involves generating ideas freely without immediate criticism?",
+    "options": ["Debate", "Panel discussion", "Brainstorming", "Whole-class discussion"],
+    "answer": "Brainstorming"
+  },
+  {
+    "question": "In a \"Panel Discussion\":",
+    "options": ["All students argue opposing views", "Selected students present different views", "The teacher talks for 45 minutes", "Students act out roles"],
+    "answer": "Selected students present different views"
+  },
+  {
+    "question": "Which method is known as \"Learning by seeing and doing\"?",
+    "options": ["Lecture", "E-learning", "Demonstration", "Flipped classroom"],
+    "answer": "Demonstration"
+  },
+  {
+    "question": "The \"Return Demonstration\" is performed by:",
+    "options": ["The teacher", "The administrator", "The learner", "The patient"],
+    "answer": "The learner"
+  },
+  {
+    "question": "What is a disadvantage of the Demonstration method?",
+    "options": ["It engages multiple senses", "It makes learning realistic", "It can be time-consuming with large classes", "It builds student confidence"],
+    "answer": "It can be time-consuming with large classes"
+  },
+  {
+    "question": "Simulation allows learners to practice without:",
+    "options": ["Books", "Real-life consequences", "Teachers", "Equipment"],
+    "answer": "Real-life consequences"
+  },
+  {
+    "question": "Which type of simulation uses software or virtual environments?",
+    "options": ["Role play", "Case simulation", "Computer-based simulation", "Mannequin-based simulation"],
+    "answer": "Computer-based simulation"
+  },
+  {
+    "question": "The \"Debriefing\" step in simulation is used for:",
+    "options": ["Setting up equipment", "Reflecting on what happened", "Introducing the topic", "Grading the students immediately"],
+    "answer": "Reflecting on what happened"
+  },
+  {
+    "question": "Role Play is particularly useful for teaching:",
+    "options": ["Heavy theoretical math", "Attitudes and communication skills", "History of nursing", "Software coding"],
+    "answer": "Attitudes and communication skills"
+  },
+  {
+    "question": "E-learning that happens in \"real-time\" (like a Zoom lecture) is called:",
+    "options": ["Asynchronous", "Synchronous", "Flipped", "Blended"],
+    "answer": "Synchronous"
+  },
+  {
+    "question": "Blended Learning is a combination of:",
+    "options": ["Two different books", "Face-to-face and online learning", "Reading and writing only", "Two teachers in one class"],
+    "answer": "Face-to-face and online learning"
+  },
+  {
+    "question": "In a Flipped Classroom, students study new content:",
+    "options": ["During the class", "After the exam", "Before the class", "Only during summer"],
+    "answer": "Before the class"
+  },
+  {
+    "question": "Virtual Reality (VR) uses:",
+    "options": ["2D printed charts", "Immersive 3D computer-generated environments", "Traditional chalkboards", "Text-only modules"],
+    "answer": "Immersive 3D computer-generated environments"
+  },
+  {
+    "question": "A common side effect of VR mentioned in the notes is:",
+    "options": ["Better hearing", "Motion sickness", "Faster running", "Weight loss"],
+    "answer": "Motion sickness"
+  },
+  {
+    "question": "OSCE stands for:",
+    "options": ["Online Student Clinical Evaluation", "Objective Structured Clinical Examination", "Organized Student Case Examination", "Objective Standard Clinical Entry"],
+    "answer": "Objective Structured Clinical Examination"
+  },
+  {
+    "question": "What is a key characteristic of OSCE?",
+    "options": ["It is a subjective oral exam", "It uses a series of stations", "It only has one station", "It is conducted without a checklist"],
+    "answer": "It uses a series of stations"
+  },
+  {
+    "question": "The primary advantage of OSCE is that it is:",
+    "options": ["Cheap and fast", "Fair, reliable, and objective", "Stress-free for students", "Requires no preparation"],
+    "answer": "Fair, reliable, and objective"
+  },
+  {
+    "question": "Which station might be found in an OSCE?",
+    "options": ["Watching a movie", "Simulating vital signs measurement", "Writing a long essay", "Singing"],
+    "answer": "Simulating vital signs measurement"
+  },
+  {
+    "question": "Which method is best for teaching psychomotor skills?",
+    "options": ["Lecture", "Discussion", "Demonstration", "E-learning"],
+    "answer": "Demonstration"
+  },
+  {
+    "question": "What is the teacher's role in the Discussion method?",
+    "options": ["Sole source of info", "Facilitator or guide", "Passive observer", "Grader only"],
+    "answer": "Facilitator or guide"
+  },
+  {
+    "question": "Teaching is more than just transferring information.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "The soul of the right method of teaching brings positive changes in behavior.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Teacher-centered methods include Brainstorming.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "The Lecture method is cost-effective and requires minimal resources.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Preparation is the final step in the Lecture method.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Discussion develops higher-order thinking like analysis and evaluation.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "The Discussion method is never time-consuming.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "In the Demonstration method, the teacher should ensure visibility for all students.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Demonstration is not suitable for clinical procedures.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Simulation provides a safe and controlled environment.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Debriefing is a minor and optional part of simulation.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Role Play helps students understand different perspectives and empathy.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Asynchronous E-learning means everyone is online at the same time.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Blended learning supports different learning styles.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "In a Flipped Classroom, class time is used for passive listening.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "If a nursing instructor wants to assess a student's ability to communicate with a difficult patient while ensuring objectivity, which combination is best?",
+    "options": ["Lecture and a written exam", "Demonstration and a group discussion", "Role Play followed by an OSCE station", "E-learning and a summary"],
+    "answer": "Role Play followed by an OSCE station"
+  },
+  {
+    "question": "Why might a teacher choose the Flipped Classroom over a traditional Lecture for a complex nursing procedure?",
+    "options": ["Because it requires less work for the teacher", "To use class time for hands-on application rather than just theory", "Because students don't need to study at home", "To avoid using any technology"],
+    "answer": "To use class time for hands-on application rather than just theory"
+  },
+  {
+    "question": "In a situation where resources are very limited (no equipment or mannequins), but students need to learn \"Empathy,\" which method is most effective?",
+    "options": ["Demonstration", "Virtual Reality", "Role Play", "Simulation with mannequins"],
+    "answer": "Role Play"
+  },
+  {
+    "question": "A student performs a procedure perfectly in a Demonstration but fails to adapt when a complication arises in a real scenario. What was likely missing in their training?",
+    "options": ["More Lectures", "Better textbooks", "Simulation or Problem-based learning", "A longer summary"],
+    "answer": "Simulation or Problem-based learning"
+  },
+  {
+    "question": "If an OSCE examiner notices that students are failing a specific station despite passing the written exam, what should be evaluated first?",
+    "options": ["The students' intelligence", "The alignment between the teaching method and the clinical skill being tested", "The cost of the exam", "The classroom furniture"],
+    "answer": "The alignment between the teaching method and the clinical skill being tested"
+  }
+]

@@ -11,15 +11,15 @@
 <!-- ===== HEADER ===== -->
 <header class="header">
     <!-- Overlay -->
-<div class="overlay"></div>
+    <div class="overlay"></div>
 
-<!-- Menu -->
-<div class="menu">
-  <ul>
-    <li><a href="https://t.me/ahm3dayman" target="_blank"> 📢 CHANNEL</a></li>
-    <li><a href="t.me/XP_BD"target="_blank">👤 ME</a></li>
-  </ul>
-</div>
+    <!-- Menu -->
+    <div class="menu">
+        <ul>
+            <li><a href="https://t.me/ahm3dayman" target="_blank"> 📢 CHANNEL</a></li>
+            <li><a href="https://t.me/XP_BD" target="_blank">👤 ME</a></li> <!-- Added a space before target -->
+        </ul>
+    </div>
     <div class="header-left">
         <button id="menuBtn">☰</button>
     </div>
@@ -43,24 +43,24 @@
 <main class="cards">
 
     <!-- Card 1 -->
-  <div class="card reveal">
-    <div class="emoji">📝</div>
-    <h2>Questions</h2>
-    <p>أسئلة على المواد</p>
-<a href="questions.html" class="go-btn page-link">Go</a>
-</div>
+    <div class="card reveal">
+        <div class="emoji">📝</div>
+        <h2>Questions</h2>
+        <p>أسئلة على المواد</p>
+        <a href="questions.html" class="go-btn page-link">Go</a>
+    </div>
 
     <!-- Card 2 -->
     <div class="card reveal">
-    <div class="emoji">📘</div>
-    <h2>First Semester</h2>
-    <p>مواد الترم الأول</p>
-    <button class="go-btn">Go</button>
-</div>
+        <div class="emoji">📘</div>
+        <h2>First Semester</h2>
+        <p>مواد الترم الأول</p>
+        <a href="first-semester.html" class="go-btn">Go</a> <!-- Changed button to link -->
+    </div>
 
     <!-- Card 3 -->
     <div class="card disabled reveal">
-       <div class="emoji">⏳</div>
+        <div class="emoji">⏳</div>
         <h2>Second Semester</h2>
         <p>مواد الترم التاني</p>
         <span class="soon">Coming Soon</span>
@@ -73,17 +73,20 @@
     <h3>Contact Me</h3>
 
     <div class="social">
-        <a class="icon telegram iccon-reveal" href="https://t.me/XP_BD" target="_blank"></a>
+        <a class="icon telegram icon-reveal" href="https://t.me/XP_BD" target="_blank"></a>
         <a class="icon whatsapp icon-reveal" href="https://wa.me/qr/HWHVGQHZI2SGC1" target="_blank"></a>
     </div>
 
     <span class="version">V1.0</span>
 </footer>
+
 <button id="scrollTop" class="scroll-top" aria-label="Scroll to top">
-<svg viewBox="0 0 24 24" width="22" height="22">
-  <path d="M6 15l6-6 6 6" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-</svg>
+    <svg viewBox="0 0 24 24" width="22" height="22">
+        <path d="M6 15l6-6 6 6" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    </svg>
 </button>
-<script src="js/main.js"></script>
+
+<link rel="stylesheet" href="css/main.css">
+<script src="js/main.js" defer></script>
 </body>
 </html>

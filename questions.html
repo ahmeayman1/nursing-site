@@ -3,85 +3,27 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Questions</title>
+  <title>أسئلة</title>
 
-  <!-- CSS -->
+  <!-- CSS Link -->
   <link rel="stylesheet" href="css/questions.css">
+  <link rel="stylesheet" href="css/main.css"> <!-- Adding main stylesheet -->
 </head>
 
 <body>
 
-  <!-- ===== صفحة Questions ===== -->
-  <section class="questions-page">
-<div class="page-header">
-  <button class="back-icon" onclick="goHome()">
-    ←
-  </button>
-  <span class="page-title">المواد</span>
-</div>
-    <!-- Card المادة -->
-    <div class="subject-card">
-      <h2>📘 مبادئ إدارة</h2>
-      <p>اختر المحاضرة</p>
+  <!-- ===== Header Section for Questions Page ===== -->
+  <header class="card-header">
+    <button class="back-btn" onclick="goBack()" aria-label="Retour">
+      ← 
+    </button>
+  </header>
 
-    <button class="view-btn" id="openModal">View</button>
+  <main class="questions-page" id="subjectsContainer"></main>
 
-
-  </section>
-
-  <!-- ===== Overlay ===== -->
-  <div class="overlay" id="overlay"></div>
-
-  <!-- ===== Modal المحاضرات ===== -->
-<div class="modal" id="modal">
-
-    <div class="modal-header">
-      <h3>📘 مبادئ إدارة</h3>
-      <span class="close-btn" id="closeModal">✖</span>
-    </div>
-
- <div class="modal-content">
-   <a href="https://ahmeayman1.github.io/Exam/" 
-   class="lecture-item"
-   target="_blank">
-     📌 Exams
-<a href="https://ahmeayman1.github.io/E1/" 
-   class="lecture-item"
-   target="_blank">
-  📍 Management 
-</a>
-<a href="https://ahmeayman1.github.io/E2/" 
-   class="lecture-item"
-   target="_blank">
-  📍 Planning
-</a>
-
-  <a href="https://ahmeayman1.github.io/E3/" class="lecture-item">
-    📍 Organizing
-  </a>
-
-  <a href="https://ahmeayman1.github.io/E4/" class="lecture-item">
-    📍 Staffing
-  </a>
-
-  <a href="https://ahmeayman1.github.io/E5/" class="lecture-item">
-    📍 Directing
-  </a>
-
-  <a href="https://ahmeayman1.github.io/E6/" class="lecture-item">
-    📍 Controlling
-  </a>
-
-  <a href="https://ahmeayman1.github.io/E7/" class="lecture-item">
-    📍 Decision Making & Problem Solving
-  </a>
-
-  <a href="https://ahmeayman1.github.io/E8/" class="lecture-item">
-    📍 Communication
-  </a>
-
-</div>
-<script src="js/questions.js"></script>
-
+  <script src="js/questions.js"></script>
+  <script src="js/main.js"></script>
+  <!-- Overlay for Modals -->
+<div id="overlay" class="overlay"></div>
 </body>
 </html>

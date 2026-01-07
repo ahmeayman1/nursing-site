@@ -1,71 +1,69 @@
-document.querySelectorAll(".view-btn").forEach(btn => {
-  btn.addEventListener("click", () => {
-    const lectures = btn.nextElementSibling;
+const subjectsContainer = document.getElementById("subjectsContainer");
 
-    if (!lectures) return; // حماية
-
-    lectures.classList.toggle("open");
-    lectures.style.display =
-      lectures.style.display === "block" ? "none" : "block";
+fetch("data/subjects.json")
+  .then(res => res.json())
+  .then(subjects => {
+    subjects.forEach(subject => createSubjectCard(subject));
   });
-});
-const subjects = [
-  {
-    name: "مبادئ إدارة",
-    lectures: [
-      {
-        title: "محاضرة 1",
-        link: "https://example.com"
-      },
-      {
-        title: "محاضرة 2",
-        link: "https://example.com"
-      }
-    ]
-  }
-];
-document.addEventListener("DOMContentLoaded", () => {
+function goBack() {
+  window.history.back();
+}
+function createSubjectCard(subject) {
+  const card = document.createElement("div");
+  card.className = "subject-card";
 
-  const modal = document.getElementById("modal");
-  const overlay = document.getElementById("overlay");
-  const openBtn = document.getElementById("openModal");
-  const closeBtn = document.getElementById("closeModal");
+  card.innerHTML = `
+    <h2>${subject.icon} ${subject.name}</h2>
+    <p>اختر المحاضرة</p>
+    <button class="view-btn">View</button>
+  `;
 
-  if (!modal || !overlay || !openBtn || !closeBtn) return;
+  const modal = createModal(subject);
+  card.querySelector(".view-btn").onclick = () => openModal(modal);
 
-  openBtn.addEventListener("click", () => {
-    modal.classList.add("active");
+  subjectsContainer.appendChild(card);
+  document.body.appendChild(modal);
+}
+
+function createModal(subject) {
+  const modal = document.createElement("div");
+  modal.className = "modal";
+
+  modal.innerHTML = `
+    <div class="modal-header">
+      <h3>${subject.icon} ${subject.name}</h3>
+      <span class="close-btn">✖</span>
+    </div>
+    <div class="modal-content">
+      ${subject.lectures.map(l => `
+        <a class="lecture-item"
+           href="quiz.html?subject=${subject.id}&lecture=${l.file}">
+           📍 ${l.title}
+        </a>
+      `).join("")}
+    </div>
+  `;
+
+  modal.querySelector(".close-btn").onclick = () => closeModal(modal);
+  return modal;
+}
+
+/* ===== Modal Control ===== */
+
+
+function openModal(modal) {
+  modal.classList.add("active");
+
+  if (overlay) {
     overlay.classList.add("active");
-  });
+    overlay.onclick = () => closeModal(modal);
+  }
+}
 
-  closeBtn.addEventListener("click", closeModal);
-  overlay.addEventListener("click", closeModal);
+function closeModal(modal) {
+  modal.classList.remove("active");
 
-  function closeModal() {
-    modal.classList.remove("active");
+  if (overlay) {
     overlay.classList.remove("active");
   }
-
-});
-function goHome() {
-  document.body.classList.add("fade-out");
-
-  setTimeout(() => {
-    window.location.href = "index.html";
-  }, 300);
 }
-/* ===== View Button Ripple ===== */
-document.querySelectorAll(".view-btn").forEach(btn => {
-  btn.addEventListener("click", e => {
-    const ripple = document.createElement("span");
-    ripple.className = "ripple";
-
-    const rect = btn.getBoundingClientRect();
-    ripple.style.left = `${e.clientX - rect.left}px`;
-    ripple.style.top = `${e.clientY - rect.top}px`;
-
-    btn.appendChild(ripple);
-
-    setTimeout(() => ripple.remove(), 600);
-  });
-});

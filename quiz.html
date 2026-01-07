@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Q-NURSING</title>
+  <link rel="stylesheet" href="css/quiz.css">
+</head>
+<body>
+
+<header>
+  <h2>Q-NURSING</h2>
+  <button id="mode">🌙</button>
+</header>
+
+<!-- زرار View Questions في النص -->
+<div class="questions-center">
+<button id="toggleQuestions" class="view-btn">
+    View Questions
+  </button>
+
+  <div id="questionsList" class="questions-dropdown">
+    <!-- أرقام الأسئلة هتتحط هنا بالـ JS -->
+  </div>
+</div>
+
+<!-- صندوق السؤال -->
+<div class="question-card">
+
+  <h4 id="counter"></h4>
+  <div class="question-text" id="question"></div>
+<div id="options"></div>
+</div>
+<!-- أزرار التنقل -->
+<!-- أزرار التنقل -->
+<div class="controls">
+  <button onclick="prev()">Back</button>
+  <button onclick="next()">Next</button>
+</div>
+
+<!-- زر End Review -->
+<div class="end-review-container" style="display:none;">
+  <button id="endReview" onclick="endReview()">End Review</button>
+</div>
+
+<!-- نتيجة الامتحان -->
+<div id="resultBox" class="result-box" style="display:none;">
+  <h2 id="scoreText"></h2>
+  <p id="messageText"></p>
+
+  <button onclick="retryQuiz()">Retry</button>
+  <button onclick="enterReview()">View Questions</button>
+</div>
+<link rel="stylesheet" href="css/quiz.css">
+<script src="js/quiz.js" defer></script>
+</body>
+</html>

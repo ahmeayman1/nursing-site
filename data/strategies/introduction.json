@@ -1,0 +1,437 @@
+[
+  {
+    "question": "What is the definition of Learning according to the text?",
+    "options": [
+      "Delivering medical content to students.",
+      "The acquisition of knowledge, behaviors, skills, and values.",
+      "Designing clinical simulations.",
+      "Evaluating teacher performance."
+    ],
+    "answer": "The acquisition of knowledge, behaviors, skills, and values."
+  },
+  {
+    "question": "In nursing, Education is described as the:",
+    "options": [
+      "End of a nurse's career.",
+      "Backbone of professional nursing.",
+      "Only way to learn how to give injections.",
+      "Least important part of practice."
+    ],
+    "answer": "Backbone of professional nursing."
+  },
+  {
+    "question": "One does not need to be taught in order to learn something.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "The Ancient Learning era was characterized by:",
+    "options": [
+      "Massive Open Online Courses (MOOCs).",
+      "Systematic university education.",
+      "Accidental learning and survival skills.",
+      "AI-driven personalized learning."
+    ],
+    "answer": "Accidental learning and survival skills."
+  },
+  {
+    "question": "Which of the following is a Thinking and Learning characteristic of nursing students?",
+    "options": [
+      "Coming on time to class.",
+      "Asking why does this happen and how does it work.",
+      "Wanting to help patients feel better.",
+      "Working well in a team."
+    ],
+    "answer": "Asking why does this happen and how does it work."
+  },
+  {
+    "question": "Scaffolding is a technique used in which teaching principle?",
+    "options": [
+      "Ethical Modeling.",
+      "Structured and Sequenced Content.",
+      "Integration of Technology.",
+      "Feedback and Evaluation."
+    ],
+    "answer": "Structured and Sequenced Content."
+  },
+  {
+    "question": "Modern Education is primarily teacher-centric.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Which era of education saw the emergence of schools and universities?",
+    "options": [
+      "Ancient era.",
+      "Mediaeval era.",
+      "Pandemic era.",
+      "Future directions."
+    ],
+    "answer": "Mediaeval era."
+  },
+  {
+    "question": "What does the acronym MOOCs stand for?",
+    "options": [
+      "Medical Online Observation Center.",
+      "Massive Open Online Courses.",
+      "Modern Office of Clinical Skills.",
+      "Management of Online Care Systems."
+    ],
+    "answer": "Massive Open Online Courses."
+  },
+  {
+    "question": "Faculty resistance is considered a:",
+    "options": [
+      "Benefit of modern education.",
+      "Learning objective.",
+      "Challenge in nursing education.",
+      "Future direction."
+    ],
+    "answer": "Challenge in nursing education."
+  },
+  {
+    "question": "Teaching can happen unconsciously.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Promoting patient safety is a direct result of:",
+    "options": [
+      "Reducing clinical hours.",
+      "Effective nursing education.",
+      "Avoiding technology.",
+      "Rigid curriculum."
+    ],
+    "answer": "Effective nursing education."
+  },
+  {
+    "question": "Which principle involves using case studies and role-playing?",
+    "options": [
+      "Clear Objectives.",
+      "Active Learning and Engagement.",
+      "Practice and Reinforcement.",
+      "Holistic Development."
+    ],
+    "answer": "Active Learning and Engagement."
+  },
+  {
+    "question": "Nursing learners show behavior and attitude by:",
+    "options": [
+      "Focusing only on textbook theory.",
+      "Being responsible, punctual, and respectful.",
+      "Asking for more lectures.",
+      "Avoiding patient interaction."
+    ],
+    "answer": "Being responsible, punctual, and respectful."
+  },
+  {
+    "question": "Nursing is described as both a science and an art.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Timely and constructive are essential qualities of:",
+    "options": [
+      "Ancient learning.",
+      "Feedback and evaluation.",
+      "Accidental learning.",
+      "Curriculum rigidity."
+    ],
+    "answer": "Feedback and evaluation."
+  },
+  {
+    "question": "What is a key future direction for nursing education?",
+    "options": [
+      "Lecture-based instruction only.",
+      "AI-driven personalized learning.",
+      "Returning to ancient survival skills.",
+      "Removing all technology from labs."
+    ],
+    "answer": "AI-driven personalized learning."
+  },
+  {
+    "question": "Teaching and learning are always linked with learners.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Bridging the gap between theory and practice means:",
+    "options": [
+      "Studying only at home.",
+      "Matching classroom learning with hospital reality.",
+      "Ignoring clinical placements.",
+      "Memorizing books only."
+    ],
+    "answer": "Matching classroom learning with hospital reality."
+  },
+  {
+    "question": "Which principle emphasizes the teacher as a role model for empathy?",
+    "options": [
+      "Integration of Technology.",
+      "Ethical and Professional Modeling.",
+      "Structured Content.",
+      "Motivation and Relevance."
+    ],
+    "answer": "Ethical and Professional Modeling."
+  },
+  {
+    "question": "Curriculum rigidity is a challenge because it:",
+    "options": [
+      "Makes updating content difficult.",
+      "Makes learning too fast.",
+      "Encourages innovation.",
+      "Increases simulation lab use."
+    ],
+    "answer": "Makes updating content difficult."
+  },
+  {
+    "question": "Nursing learners must be able to stay strong in emotional situations.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Consolidating learning is best achieved through:",
+    "options": [
+      "Listening to one lecture.",
+      "Hands-on practice and clinical placements.",
+      "Reading the introduction only.",
+      "Avoiding feedback."
+    ],
+    "answer": "Hands-on practice and clinical placements."
+  },
+  {
+    "question": "The pandemic era highlighted the importance of:",
+    "options": [
+      "Traditional physical-only classes.",
+      "Ed-Tech and virtual education platforms.",
+      "Non-structured ancient learning.",
+      "Removing clinical standards."
+    ],
+    "answer": "Ed-Tech and virtual education platforms."
+  },
+  {
+    "question": "Learning is the process of imparting knowledge to others.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "A student who cares about people and wants to help them is showing traits of:",
+    "options": [
+      "Thinking and Learning.",
+      "Feelings and Motivation.",
+      "Resource limitations.",
+      "Curriculum design."
+    ],
+    "answer": "Feelings and Motivation."
+  },
+  {
+    "question": "Which of the following is NOT an active learning strategy?",
+    "options": [
+      "Simulation.",
+      "Passive listening to a long lecture.",
+      "Group discussion.",
+      "Role-playing."
+    ],
+    "answer": "Passive listening to a long lecture."
+  },
+  {
+    "question": "Education in nursing promotes evidence-based practice.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "The learner-centered approach focuses on:",
+    "options": [
+      "The teacher’s convenience.",
+      "Fostering student autonomy and critical thinking.",
+      "Using only one teaching method for everyone.",
+      "Reducing student participation."
+    ],
+    "answer": "Fostering student autonomy and critical thinking."
+  },
+  {
+    "question": "Which era focused on theoretical orientation?",
+    "options": [
+      "Ancient.",
+      "Mediaeval.",
+      "Modern.",
+      "Pandemic."
+    ],
+    "answer": "Mediaeval."
+  },
+  {
+    "question": "Summative assessment is used to monitor progress.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Time management is listed in the text as a:",
+    "options": [
+      "Teaching principle.",
+      "Learning need for nursing students.",
+      "Historical era.",
+      "Future technology."
+    ],
+    "answer": "Learning need for nursing students."
+  },
+  {
+    "question": "Ethical teaching practices include discussing:",
+    "options": [
+      "Only surgical techniques.",
+      "Patient rights and confidentiality.",
+      "Ancient history.",
+      "Faculty salaries."
+    ],
+    "answer": "Patient rights and confidentiality."
+  },
+  {
+    "question": "Teaching is only about delivering content.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Which principle encourages students to find new solutions?",
+    "options": [
+      "Practice and Reinforcement.",
+      "Creativity and Innovation.",
+      "Clear Objectives.",
+      "Structured Content."
+    ],
+    "answer": "Creativity and Innovation."
+  },
+  {
+    "question": "Nursing learners need to learn about different cultures to:",
+    "options": [
+      "Become tourists.",
+      "Care for all kinds of patients.",
+      "Avoid hospital duty.",
+      "Increase curriculum rigidity."
+    ],
+    "answer": "Care for all kinds of patients."
+  },
+  {
+    "question": "Teaching can be both conscious and unconscious.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "The use of virtual labs falls under which principle?",
+    "options": [
+      "Ethical Modeling.",
+      "Integration of Technology.",
+      "Ancient Learning.",
+      "Teacher-Centric Approach."
+    ],
+    "answer": "Integration of Technology."
+  },
+  {
+    "question": "Holistic development of the student is a feature of:",
+    "options": [
+      "Modern Education.",
+      "Ancient Learning.",
+      "Traditional Approaches.",
+      "Survival skills."
+    ],
+    "answer": "Modern Education."
+  },
+  {
+    "question": "Educators should act as facilitators and mentors.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "In the Ancient era, knowledge was passed through:",
+    "options": [
+      "Textbooks.",
+      "Observation and imitation.",
+      "Online platforms.",
+      "Formal universities."
+    ],
+    "answer": "Observation and imitation."
+  },
+  {
+    "question": "Which principle ensures lessons go from foundational to advanced?",
+    "options": [
+      "Active Learning.",
+      "Structured and Sequenced Content.",
+      "Creativity.",
+      "Student Diversity."
+    ],
+    "answer": "Structured and Sequenced Content."
+  },
+  {
+    "question": "Nursing learners are often motivated by the belief that nursing is important.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "A challenge in nursing education regarding students is:",
+    "options": [
+      "Lack of students.",
+      "Student diversity and varying preparedness.",
+      "Students being too resilient.",
+      "Students asking too many questions."
+    ],
+    "answer": "Student diversity and varying preparedness."
+  },
+  {
+    "question": "Measurable learning objectives should be:",
+    "options": [
+      "Hidden from students.",
+      "Aligned with teaching activities.",
+      "Ignored during evaluation.",
+      "Changed every day."
+    ],
+    "answer": "Aligned with teaching activities."
+  },
+  {
+    "question": "If a nursing school introduces hybrid learning, what is the most likely composition?",
+    "options": [
+      "Only ancient survival skills and hunting.",
+      "A blend of traditional classroom methods and modern digital innovations.",
+      "100% hospital-based training with no books.",
+      "Teaching students how to resist new faculty methods."
+    ],
+    "answer": "A blend of traditional classroom methods and modern digital innovations."
+  },
+  {
+    "question": "A student understands heart anatomy but cannot explain heart failure. Which principle should be used?",
+    "options": [
+      "Motivation and relevance.",
+      "Structured and sequenced content.",
+      "Integration of technology.",
+      "Practice by repetition only."
+    ],
+    "answer": "Structured and sequenced content."
+  },
+  {
+    "question": "Why is evidence-based practice linked to education?",
+    "options": [
+      "Because education helps nurses ignore research.",
+      "Because education ensures nurses use current and proven methods for patient care.",
+      "Because education only focuses on ancient traditions.",
+      "Because evidence is only found in simulation labs."
+    ],
+    "answer": "Because education ensures nurses use current and proven methods for patient care."
+  },
+  {
+    "question": "If an instructor ignores a question about patient privacy, which principle is violated?",
+    "options": [
+      "Integration of Technology.",
+      "Ethical and Professional Modeling.",
+      "Feedback and Evaluation.",
+      "Ancient Learning."
+    ],
+    "answer": "Ethical and Professional Modeling."
+  },
+  {
+    "question": "How does active learning prepare a nurse better than a traditional lecture?",
+    "options": [
+      "It allows them to sleep during class.",
+      "It forces them to apply theory to real-life scenarios, improving clinical competence.",
+      "It is faster and requires no thinking.",
+      "It focuses only on memorizing information."
+    ],
+    "answer": "It forces them to apply theory to real-life scenarios, improving clinical competence."
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "question": "Educational media facilitates the student's achievement of:",
+    "options": [
+      "Marketing goals.",
+      "Instructional objectives.",
+      "Social media status.",
+      "High cost of production."
+    ],
+    "answer": "Instructional objectives."
+  },
+  {
+    "question": "Combining audio and visual media is more effective than using either alone.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Which of the following is called \"Living Textbooks\"?",
+    "options": ["Pamphlets.", "Flashcards.", "Newspapers.", "Manuals."],
+    "answer": "Newspapers."
+  },
+  {
+    "question": "A very thin book with a paper cover used for marketing is:",
+    "options": ["Textbook.", "Pamphlet.", "Manual.", "Newspaper."],
+    "answer": "Pamphlet."
+  },
+  {
+    "question": "Educational media helps information remain in the minds of learners for a longer time.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Which tool is used to show increasing or decreasing patterns?",
+    "options": ["Map.", "Chart.", "Graph.", "Sketch."],
+    "answer": "Graph."
+  },
+  {
+    "question": "If a teacher needs to explain a Nursing Care Plan structure visually, which tool is specifically mentioned for this?",
+    "options": ["Flashcards.", "Chart.", "Radio.", "Map."],
+    "answer": "Chart."
+  },
+  {
+    "question": "A \"Display\" contains only one central idea.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "What is the most commonly used audio teaching method?",
+    "options": ["Music.", "Talks (spoken-word).", "Sound effects.", "Podcasts."],
+    "answer": "Talks (spoken-word)."
+  },
+  {
+    "question": "A book that gives practical instructions on how to do something is:",
+    "options": ["Magazine.", "Manual.", "Textbook.", "Poster."],
+    "answer": "Manual."
+  },
+  {
+    "question": "Audio media is especially beneficial for visually impaired learners.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Which of the following is an example of Electronic Media?",
+    "options": ["Photographs.", "Cassettes.", "Graphing calculators.", "Films."],
+    "answer": "Graphing calculators."
+  },
+  {
+    "question": "The media used when the actual substance cannot be brought into the classroom is:",
+    "options": ["Map.", "Model.", "Sketch.", "Poster."],
+    "answer": "Model."
+  },
+  {
+    "question": "Visual media relies only on the sense of hearing.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "A teacher has no real object, no model, and no map available. What is the remaining visual option to use on the board?",
+    "options": ["Television.", "Sketch.", "Flipchart.", "Flashcard."],
+    "answer": "Sketch."
+  },
+  {
+    "question": "Which of these is an advantage of Audio-Visual media?",
+    "options": [
+      "It is always the cheapest.",
+      "It allows for reference back to a previous slide.",
+      "It requires no preparation.",
+      "It relies only on one sense."
+    ],
+    "answer": "It allows for reference back to a previous slide."
+  },
+  {
+    "question": "Teaching materials are used to bring a desired effect on the audience.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "What is used to develop cognitive recognition and recall?",
+    "options": ["Map.", "Flashcard.", "Newspaper.", "Manual."],
+    "answer": "Flashcard."
+  },
+  {
+    "question": "Which media type includes \"Demonstration\"?",
+    "options": ["Audio only.", "Visual only.", "Audio-Visual.", "Print."],
+    "answer": "Audio-Visual."
+  },
+  {
+    "question": "Effective media should be as expensive as possible.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "In a very large lecture hall with hundreds of students, which media category is most recommended?",
+    "options": ["Print materials.", "Flashcards.", "Audio-Visual.", "Small sketches."],
+    "answer": "Audio-Visual."
+  },
+  {
+    "question": "Maps are specifically used to teach:",
+    "options": [
+      "Step-by-step procedures.",
+      "Historical events and geographical elements.",
+      "Cognitive recall.",
+      "Statistical patterns."
+    ],
+    "answer": "Historical events and geographical elements."
+  },
+  {
+    "question": "Magazines provide authentic information immediately.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Flipcharts are used by:",
+    "options": [
+      "Projecting them on a screen.",
+      "Turning over one piece of paper at a time.",
+      "Playing a recorded sound.",
+      "Using a digital pen."
+    ],
+    "answer": "Turning over one piece of paper at a time."
+  },
+  {
+    "question": "Which is a disadvantage of Audio media?",
+    "options": [
+      "Hard to duplicate.",
+      "No visual stimulus.",
+      "Not portable.",
+      "Not widely available."
+    ],
+    "answer": "No visual stimulus."
+  },
+  {
+    "question": "Textbooks provide guidelines for both the teacher and the student.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Television and Films are classified as:",
+    "options": [
+      "Print Media.",
+      "Audio Media.",
+      "Audio-Visual Media.",
+      "Electronic Media."
+    ],
+    "answer": "Audio-Visual Media."
+  },
+  {
+    "question": "Why is a Manual better than a Textbook for a student learning a specific clinical skill?",
+    "options": [
+      "It is thinner.",
+      "It gives practical instructions on how to do it.",
+      "It has more pictures.",
+      "It is used for marketing."
+    ],
+    "answer": "It gives practical instructions on how to do it."
+  },
+  {
+    "question": "Media can bring the entire world to the students.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Which is a characteristic of effective media?",
+    "options": [
+      "Should be complex.",
+      "Should ignore the learner's characteristics.",
+      "Should have an intellectual message.",
+      "Should be used without preparation."
+    ],
+    "answer": "Should have an intellectual message."
+  },
+  {
+    "question": "Microphones and Podcasts are examples of:",
+    "options": ["Visual Media.", "Audio Media.", "Print Media.", "Electronic Media."],
+    "answer": "Audio Media."
+  },
+  {
+    "question": "A Poster contains many ideas.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Which material is described as inexpensive to manufacture and distribute?",
+    "options": ["Model.", "Pamphlet.", "Television.", "Film."],
+    "answer": "Pamphlet."
+  },
+  {
+    "question": "If a student needs to see the Maslow Hierarchy of Needs, which visual aid is specifically mentioned?",
+    "options": ["Chart.", "Map.", "Audio CD.", "Flashcard."],
+    "answer": "Chart."
+  },
+  {
+    "question": "Audio-Visual media is effective for summarizing concepts.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Real objects and Photographs are types of:",
+    "options": ["Audio Media.", "Visual Media.", "Print Media.", "Electronic Media."],
+    "answer": "Visual Media."
+  },
+  {
+    "question": "What is a disadvantage of Visual media?",
+    "options": [
+      "It is expensive.",
+      "Lack of opportunity for interaction.",
+      "It is hard to follow.",
+      "It is not available."
+    ],
+    "answer": "Lack of opportunity for interaction."
+  },
+  {
+    "question": "Media helps make lessons interesting and learning easy.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Instructional media is used to:",
+    "options": [
+      "Replace the teacher entirely.",
+      "Demonstrate or clarify course content.",
+      "Increase the cost of education.",
+      "Decrease student attention."
+    ],
+    "answer": "Demonstrate or clarify course content."
+  },
+  {
+    "question": "Tablets and Computers are classified as:",
+    "options": ["Audio Media.", "Visual Media.", "Electronic Media.", "Print Media."],
+    "answer": "Electronic Media."
+  },
+  {
+    "question": "Things taught through pictures can be remembered for a long time.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Which tool consists of a series of large pieces of paper attached at the top?",
+    "options": ["Manual.", "Flipchart.", "Poster.", "Newspaper."],
+    "answer": "Flipchart."
+  },
+  {
+    "question": "One disadvantage of Audio-Visual media is that some forms are expensive.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Which tool is used for prioritization and nursing care plans?",
+    "options": ["Graph.", "Chart.", "Map.", "Sketch."],
+    "answer": "Chart."
+  },
+  {
+    "question": "Media provides information to a large number of students in more time.",
+    "options": ["True", "False"],
+    "answer": "False"
+  },
+  {
+    "question": "Audio cassettes and Radio belong to:",
+    "options": ["Audio Media.", "Visual Media.", "Audio-Visual Media.", "Print Media."],
+    "answer": "Audio Media."
+  },
+  {
+    "question": "Effective media should be according to the characteristics of the learner.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "What conveys information more effectively than textual material alone?",
+    "options": [
+      "Silence.",
+      "Visual materials/images.",
+      "Expensive equipment.",
+      "Ignoring objectives."
+    ],
+    "answer": "Visual materials/images."
+  },
+  {
+    "question": "Audio media is easy to duplicate.",
+    "options": ["True", "False"],
+    "answer": "True"
+  },
+  {
+    "question": "Effective media should achieve:",
+    "options": ["High profit.", "The required objective.", "Popularity.", "Complexity."],
+    "answer": "The required objective."
+  }
+]
