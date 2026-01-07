@@ -399,54 +399,64 @@
     ],
     "answer": "Involve learners with questions or brief discussions."
   },
-  {
-    "question": "Teaching is merely the transfer of information from one person to another.",
-    "answer": "False",
-    "type": "True/False"
-  },
-  {
-    "question": "The Lecture method is the best way to develop critical thinking skills.",
-    "answer": "False",
-    "type": "True/False"
-  },
-  {
-    "question": "In a 'Debate', opposing views are argued in a structured manner.",
-    "answer": "True",
-    "type": "True/False"
-  },
-  {
-    "question": "Demonstration is an 'active' approach often referred to as 'learning by seeing and doing'.",
-    "answer": "True",
-    "type": "True/False"
-  },
-  {
-    "question": "OSCE provides immediate feedback to students.",
-    "answer": "True",
-    "type": "True/False"
-  },
-  {
-    "question": "The Lecture method is generally more time-consuming than the Discussion method.",
-    "answer": "False",
-    "type": "True/False"
-  },
-  {
-    "question": "The teacher's oral skills are not important for the Lecture method.",
-    "answer": "False",
-    "type": "True/False"
-  },
-  {
-    "question": "In the Discussion method, the teacher should encourage participation only from outspoken students.",
-    "answer": "False",
-    "type": "True/False"
-  },
-  {
-    "question": "Checklists are used in OSCE to ensure objective scoring.",
-    "answer": "True",
-    "type": "True/False"
-  },
-  {
-    "question": "Teaching methods help increase student motivation and facilitate effective learning.",
-    "answer": "True",
-    "type": "True/False"
-  }
+{
+  "question": "Teaching is merely the transfer of information from one person to another.",
+  "options": ["True", "False"],
+  "answer": "False",
+  "type": "True/False"
+},
+{
+  "question": "The Lecture method is the best way to develop critical thinking skills.",
+  "options": ["True", "False"],
+  "answer": "False",
+  "type": "True/False"
+},
+{
+  "question": "In a 'Debate', opposing views are argued in a structured manner.",
+  "options": ["True", "False"],
+  "answer": "True",
+  "type": "True/False"
+},
+{
+  "question": "Demonstration is an 'active' approach often referred to as 'learning by seeing and doing'.",
+  "options": ["True", "False"],
+  "answer": "True",
+  "type": "True/False"
+},
+{
+  "question": "OSCE provides immediate feedback to students.",
+  "options": ["True", "False"],
+  "answer": "True",
+  "type": "True/False"
+},
+{
+  "question": "The Lecture method is generally more time-consuming than the Discussion method.",
+  "options": ["True", "False"],
+  "answer": "False",
+  "type": "True/False"
+},
+{
+  "question": "The teacher's oral skills are not important for the Lecture method.",
+  "options": ["True", "False"],
+  "answer": "False",
+  "type": "True/False"
+},
+{
+  "question": "In the Discussion method, the teacher should encourage participation only from outspoken students.",
+  "options": ["True", "False"],
+  "answer": "False",
+  "type": "True/False"
+},
+{
+  "question": "Checklists are used in OSCE to ensure objective scoring.",
+  "options": ["True", "False"],
+  "answer": "True",
+  "type": "True/False"
+},
+{
+  "question": "Teaching methods help increase student motivation and facilitate effective learning.",
+  "options": ["True", "False"],
+  "answer": "True",
+  "type": "True/False"
+}
 ]
