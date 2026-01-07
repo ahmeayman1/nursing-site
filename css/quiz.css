@@ -491,3 +491,88 @@ body.dark #endReview {
 #mode:active {
   transform: scale(0.85) rotate(20deg);
 }
+/* =========================
+   MOBILE OPTIMIZATION
+========================= */
+@media (max-width: 600px) {
+
+  body {
+    font-size: 17px;
+  }
+
+  header h2 {
+    font-size: 22px;
+  }
+
+  /* كارت السؤال */
+  .question-card {
+    width: 95%;
+    padding: 20px;
+    margin: 12px auto;
+  }
+
+  /* نص السؤال */
+  .question-text {
+    font-size: 18px;
+    padding: 18px;
+  }
+
+  .question-text p {
+    font-size: 18px;
+    line-height: 1.7;
+  }
+
+  /* الاختيارات */
+  .option {
+    font-size: 17px;
+    padding: 18px;
+    margin: 16px 0;
+    border-radius: 14px;
+  }
+
+  /* أزرار Back / Next */
+  .controls {
+    width: 95%;
+    margin: 20px auto;
+  }
+
+  .controls button {
+    padding: 16px;
+    font-size: 17px;
+    border-radius: 12px;
+  }
+
+  /* View Questions */
+  .view-btn {
+    width: 90%;
+    font-size: 17px;
+    padding: 14px;
+  }
+
+  /* أرقام الأسئلة */
+  .q-number {
+    width: 46px;
+    height: 46px;
+    font-size: 15px;
+  }
+
+  /* نتيجة الامتحان */
+  .result-box {
+    padding: 22px;
+  }
+
+  .result-box h2 {
+    font-size: 22px;
+  }
+
+  .result-box button {
+    font-size: 17px;
+    padding: 14px 20px;
+  }
+
+  /* زر End Review */
+  #endReview {
+    font-size: 17px;
+    padding: 14px 30px;
+  }
+}
