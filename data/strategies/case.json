@@ -1,1 +1,459 @@
-{}
+[
+  {
+    "question": "What is the primary focus of Case-Based Learning (CBL) in nursing?",
+    "options": [
+      "Memorizing medical terminologies.",
+      "Placing students in the heart of clinical decision-making.",
+      "Listening to long traditional lectures.",
+      "Studying historical nursing figures."
+    ],
+    "answer": "Placing students in the heart of clinical decision-making."
+  },
+  {
+    "question": "CBL simulates the complexity of real patient care by encouraging learners to:",
+    "options": [
+      "Only follow written instructions.",
+      "Analyze, reflect, and respond to multifaceted scenarios.",
+      "Avoid interdisciplinary collaboration.",
+      "Focus solely on theoretical definitions."
+    ],
+    "answer": "Analyze, reflect, and respond to multifaceted scenarios."
+  },
+  {
+    "question": "According to the document, CBL is described as a _______ educational strategy.",
+    "options": ["Passive", "Traditional", "Transformative", "Purely theoretical"],
+    "answer": "Transformative"
+  },
+  {
+    "question": "Which educational philosophy suggests that learners actively construct knowledge through experience and reflection?",
+    "options": [
+      "Situated Learning Theory",
+      "Adult Learning Principles",
+      "Constructivism",
+      "Bloom’s Taxonomy"
+    ],
+    "answer": "Constructivism"
+  },
+  {
+    "question": "Situated Learning Theory supports CBL by:",
+    "options": [
+      "Focusing on classroom decorations.",
+      "Embedding learning in authentic clinical contexts.",
+      "Providing abstract theories without practice.",
+      "Standardizing all nursing procedures."
+    ],
+    "answer": "Embedding learning in authentic clinical contexts."
+  },
+  {
+    "question": "Adult learners are motivated by:",
+    "options": [
+      "Passive listening.",
+      "Relevance and real-world challenges.",
+      "Repetition of known facts.",
+      "Avoiding problem-solving."
+    ],
+    "answer": "Relevance and real-world challenges."
+  },
+  {
+    "question": "In Bloom’s Taxonomy, breaking down information into components refers to:",
+    "options": ["Application", "Analysis", "Evaluation", "Creation"],
+    "answer": "Analysis"
+  },
+  {
+    "question": "Which level of Bloom’s Taxonomy involves designing care plans or interventions?",
+    "options": ["Analysis", "Evaluation", "Creation", "Application"],
+    "answer": "Creation"
+  },
+  {
+    "question": "What component of a CBL activity provides a detailed narrative of a patient's condition?",
+    "options": [
+      "Learning Objectives",
+      "Problem Identification",
+      "Case Scenario",
+      "Reflection"
+    ],
+    "answer": "Case Scenario"
+  },
+  {
+    "question": "A case scenario may include which of the following?",
+    "options": [
+      "Lab results and imaging.",
+      "Psychosocial factors.",
+      "Ethical dilemmas.",
+      "All of the above."
+    ],
+    "answer": "All of the above."
+  },
+  {
+    "question": "The Problem Identification step in CBL encourages students to:",
+    "options": [
+      "Ignore psychosocial factors.",
+      "Prioritize issues and use clinical reasoning.",
+      "Wait for the instructor to give the diagnosis.",
+      "Memorize the case word-for-word."
+    ],
+    "answer": "Prioritize issues and use clinical reasoning."
+  },
+  {
+    "question": "During Analysis and Discussion, what is the role of the facilitator?",
+    "options": [
+      "Provide all answers immediately.",
+      "Guide discussion using open-ended questions.",
+      "Remain silent.",
+      "Grade students based on speed."
+    ],
+    "answer": "Guide discussion using open-ended questions."
+  },
+  {
+    "question": "In the Decision-Making and Planning phase, students must:",
+    "options": [
+      "Only identify the problem.",
+      "Propose a care plan and justify their choices.",
+      "Avoid outcomes thinking.",
+      "Focus only on past history."
+    ],
+    "answer": "Propose a care plan and justify their choices."
+  },
+  {
+    "question": "What is a key benefit of Reflection and Feedback in CBL?",
+    "options": [
+      "Saves instructor time.",
+      "Enhances insight and growth.",
+      "Replaces clinical rotations.",
+      "Focuses only on technical errors."
+    ],
+    "answer": "Enhances insight and growth."
+  },
+  {
+    "question": "A postoperative patient with sepsis represents which case type?",
+    "options": [
+      "Ethical",
+      "Psychosocial",
+      "Clinical",
+      "Interdisciplinary"
+    ],
+    "answer": "Clinical"
+  },
+  {
+    "question": "An Ethical Case would most likely explore:",
+    "options": [
+      "Cultural medication refusal.",
+      "Moral dilemmas and professional responsibilities.",
+      "Surgical steps.",
+      "Speech therapy coordination."
+    ],
+    "answer": "Moral dilemmas and professional responsibilities."
+  },
+  {
+    "question": "Which type of case involves collaboration across healthcare roles?",
+    "options": [
+      "Clinical",
+      "Psychosocial",
+      "Interdisciplinary",
+      "Ethical"
+    ],
+    "answer": "Interdisciplinary"
+  },
+  {
+    "question": "A Psychosocial Case highlights:",
+    "options": [
+      "Medical technology.",
+      "Emotional, cultural, or social factors.",
+      "Biological diagnosis only.",
+      "Hospital finances."
+    ],
+    "answer": "Emotional, cultural, or social factors."
+  },
+  {
+    "question": "How can CBL be integrated into the classroom?",
+    "options": [
+      "Printed or digital cases.",
+      "Small group discussions.",
+      "Role assignments.",
+      "All of the above."
+    ],
+    "answer": "All of the above."
+  },
+  {
+    "question": "To ensure continuity between theory and practice, instructors should:",
+    "options": [
+      "Separate classroom and clinical cases.",
+      "Link classroom cases to clinical experiences.",
+      "Replace clinical rotations.",
+      "Use non-realistic cases."
+    ],
+    "answer": "Link classroom cases to clinical experiences."
+  },
+  {
+    "question": "In online or hybrid learning, interactive cases can be delivered using:",
+    "options": [
+      "Branching scenarios.",
+      "Multimedia elements.",
+      "Discussion forums.",
+      "All of the above."
+    ],
+    "answer": "All of the above."
+  },
+  {
+    "question": "CBL enhances critical thinking by improving students’ ability to:",
+    "options": [
+      "Work alone.",
+      "Assess, prioritize, and decide.",
+      "Memorize faster.",
+      "Follow orders blindly."
+    ],
+    "answer": "Assess, prioritize, and decide."
+  },
+  {
+    "question": "How does CBL impact communication skills?",
+    "options": [
+      "Limits communication.",
+      "Improves articulation and teamwork.",
+      "Makes communication rigid.",
+      "Has no impact."
+    ],
+    "answer": "Improves articulation and teamwork."
+  },
+  {
+    "question": "Why is ethical sensitivity a benefit of CBL?",
+    "options": [
+      "Avoids legal issues only.",
+      "Encourages moral reflection.",
+      "Replaces licensure.",
+      "Focuses on profit."
+    ],
+    "answer": "Encourages moral reflection."
+  },
+  {
+    "question": "Case design quality can be improved by:",
+    "options": [
+      "Using unrealistic cases.",
+      "Using authentic and structured scenarios.",
+      "Avoiding lab data.",
+      "Unguided student cases."
+    ],
+    "answer": "Using authentic and structured scenarios."
+  },
+  {
+    "question": "Time and resource demands of CBL can be managed by:",
+    "options": [
+      "Canceling lectures.",
+      "Selective integration and blended formats.",
+      "Reducing students.",
+      "Using outdated cases."
+    ],
+    "answer": "Selective integration and blended formats."
+  },
+  {
+    "question": "To help students lacking foundational knowledge, instructors should:",
+    "options": [
+      "Lower grading standards.",
+      "Provide pre-reading and scaffolding.",
+      "Skip cases.",
+      "Test without preparation."
+    ],
+    "answer": "Provide pre-reading and scaffolding."
+  },
+  {
+    "question": "Assessment complexity in CBL can be managed using:",
+    "options": [
+      "MCQs only.",
+      "Rubrics and reflective writing.",
+      "No grading.",
+      "Speaking frequency."
+    ],
+    "answer": "Rubrics and reflective writing."
+  },
+  {
+    "question": "The first step in designing a CBL session is:",
+    "options": [
+      "Develop case scenario.",
+      "Prepare materials.",
+      "Define learning objectives.",
+      "Facilitate discussion."
+    ],
+    "answer": "Define learning objectives."
+  },
+  {
+    "question": "Which is a probing facilitator question?",
+    "options": [
+      "What is the room number?",
+      "What is the most urgent issue?",
+      "Did you read?",
+      "Is the patient male?"
+    ],
+    "answer": "What is the most urgent issue?"
+  },
+  {
+    "question": "In the sample case, the 58-year-old male presents with:",
+    "options": [
+      "Broken leg.",
+      "Chest pain, sweating, and shortness of breath.",
+      "Routine check-up.",
+      "Back pain."
+    ],
+    "answer": "Chest pain, sweating, and shortness of breath."
+  },
+  {
+    "question": "One objective of the sample case is to:",
+    "options": [
+      "Perform surgery.",
+      "Interpret ECG and lab results.",
+      "Prescribe medication.",
+      "Discharge immediately."
+    ],
+    "answer": "Interpret ECG and lab results."
+  },
+  {
+    "question": "CBL transforms students from passive learners into:",
+    "options": [
+      "Research assistants.",
+      "Active problem-solvers.",
+      "Rule followers.",
+      "Theoretical experts."
+    ],
+    "answer": "Active problem-solvers."
+  },
+  {
+    "question": "CBL fosters professional identity, empathy, and:",
+    "options": ["Competition", "Isolation", "Collaboration", "Speed"],
+    "answer": "Collaboration"
+  },
+  {
+    "question": "Culturally diverse cases promote:",
+    "options": ["Fast graduation", "Inclusivity", "Standardized care", "Billing"],
+    "answer": "Inclusivity"
+  },
+  {
+    "question": "In role-playing, students may simulate:",
+    "options": [
+      "Only the nurse.",
+      "Nurse, patient, or family member.",
+      "Administrator.",
+      "Author."
+    ],
+    "answer": "Nurse, patient, or family member."
+  },
+  {
+    "question": "Reflection in CBL includes thinking about:",
+    "options": [
+      "Technical mistakes only.",
+      "Decisions and emotions.",
+      "Instructor lunch.",
+      "Book price."
+    ],
+    "answer": "Decisions and emotions."
+  },
+  {
+    "question": "Which step involves anticipating outcomes?",
+    "options": [
+      "Problem Identification.",
+      "Decision-Making and Planning.",
+      "Learning Objectives.",
+      "Case Design."
+    ],
+    "answer": "Decision-Making and Planning."
+  },
+  {
+    "question": "CBL prepares students for a world that is:",
+    "options": [
+      "Predictable.",
+      "Unpredictable and emotionally charged.",
+      "Administrative.",
+      "Rote-based."
+    ],
+    "answer": "Unpredictable and emotionally charged."
+  },
+  {
+    "question": "An elderly patient refusing medication is categorized as:",
+    "options": ["Clinical", "Psychosocial", "Interdisciplinary", "Ethical"],
+    "answer": "Psychosocial"
+  },
+
+  {
+    "question": "CBL is less effective than traditional lectures for promoting deep learning.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "type": "True/False"
+  },
+  {
+    "question": "According to Constructivist philosophy, learners are passive recipients.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "type": "True/False"
+  },
+  {
+    "question": "CBL aligns with Adult Learning Principles because adults are self-directed.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+    "question": "Evaluation in Bloom’s Taxonomy involves judging outcomes.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+    "question": "A well-designed CBL activity does not need clear objectives.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "type": "True/False"
+  },
+
+  {
+    "question": "Which two case types are integrated when cultural beliefs affect treatment?",
+    "options": [
+      "Clinical and Interdisciplinary",
+      "Clinical and Psychosocial",
+      "Ethical and Interdisciplinary",
+      "Educational and Traditional"
+    ],
+    "answer": "Clinical and Psychosocial",
+    "type": "Critical Thinking"
+  },
+  {
+    "question": "If students cannot apply knowledge, which challenge occurred?",
+    "options": [
+      "Poor Case Design",
+      "Lack of Student Readiness",
+      "Assessment Complexity",
+      "Resource Demands"
+    ],
+    "answer": "Lack of Student Readiness",
+    "type": "Critical Thinking"
+  },
+  {
+    "question": "Failing to justify a care plan reflects weakness in which phase?",
+    "options": [
+      "Analysis and Discussion",
+      "Problem Identification",
+      "Decision-Making and Planning",
+      "Reflection"
+    ],
+    "answer": "Decision-Making and Planning",
+    "type": "Critical Thinking"
+  },
+  {
+    "question": "Why is Evaluation higher-order than Application?",
+    "options": [
+      "Application is memorization.",
+      "Evaluation judges effectiveness.",
+      "Evaluation comes first.",
+      "Application is lecture-only."
+    ],
+    "answer": "Evaluation judges effectiveness.",
+    "type": "Critical Thinking"
+  },
+  {
+    "question": "To deepen learning, a facilitator should:",
+    "options": [
+      "Give answers.",
+      "Ask probing open-ended questions.",
+      "End early.",
+      "Assign reading."
+    ],
+    "answer": "Ask probing open-ended questions.",
+    "type": "Critical Thinking"
+  }
+]
