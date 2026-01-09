@@ -7,11 +7,11 @@
       { "title": "Introduction", "file": "introduction" },
       { "title": "Teaching methods ", "file": "teaching 1" },
       { "title": "Teaching material ", "file": "teaching 2" },
-      { "title": "active Learning steratiges", "file": "active2" },
+      { "title": "active Learning steratiges", "file": "active" },
       { "title": "case Based Learning", "file": "case" },
       { "title": "simulation based learning", "file": "simulation" },
         { "title": "future trends in nursing education strategies ", "file": "future" },
-        { "title": "The role of nurse educator in implementing nursing teaching strategies", "file": "role" }
+        { "title": "The role of nurse educator", "file": "therole" }
       
     ]
   }
