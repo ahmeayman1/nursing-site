@@ -1,0 +1,482 @@
+[
+  {
+    "question": "Learning strategies are defined as:",
+    "options": [
+      "Methods teachers use to deliver course material.",
+      "A set of skills students use to understand different tasks.",
+      "Highly structured teacher-directed approaches.",
+      "Rote memorization techniques."
+    ],
+    "answer": "A set of skills students use to understand different tasks."
+  },
+  {
+    "question": "In active learning, the educator’s role shifts from a 'transmitter of knowledge' to a:",
+    "options": [
+      "Passive observer.",
+      "Sole evaluator.",
+      "Facilitator and guide.",
+      "Traditional lecturer."
+    ],
+    "answer": "Facilitator and guide."
+  },
+  {
+    "question": "Traditional nursing education primarily focuses on:",
+    "options": [
+      "Critical thinking and adaptability.",
+      "Cognitive gain and covering content.",
+      "Social interaction and peer collaboration.",
+      "Self-assessment and reflection."
+    ],
+    "answer": "Cognitive gain and covering content."
+  },
+  {
+    "question": "Which theory describes learning as a cycle of experience, reflection, conceptualization, and experimentation?",
+    "options": [
+      "Constructivism.",
+      "Adult Learning Theory (Knowles).",
+      "Experiential Learning (Kolb).",
+      "Bloom’s Taxonomy."
+    ],
+    "answer": "Experiential Learning (Kolb)."
+  },
+  {
+    "question": "Active learning is now considered a:",
+    "options": [
+      "Pedagogical luxury.",
+      "Necessity in nursing education.",
+      "Traditional instructional method.",
+      "Optional teaching tool."
+    ],
+    "answer": "Necessity in nursing education."
+  },
+  {
+    "question": "In Bloom’s Taxonomy, 'Analyzing' is defined as:",
+    "options": [
+      "Recognizing and recalling facts.",
+      "Breaking down information into component parts.",
+      "Judging the value of information.",
+      "Combining parts to make a new whole."
+    ],
+    "answer": "Breaking down information into component parts."
+  },
+  {
+    "question": "Which strategy involves students reflecting individually, then sharing with a partner, and finally with the class?",
+    "options": [
+      "Case-Based Learning.",
+      "Concept Mapping.",
+      "Think-Pair-Share.",
+      "Problem-Based Learning."
+    ],
+    "answer": "Think-Pair-Share."
+  },
+  {
+    "question": "Problem-Based Learning (PBL) focuses on:",
+    "options": [
+      "Memorizing clinical guidelines.",
+      "Investigating complex, open-ended problems in groups.",
+      "Watching a teacher demonstrate a skill.",
+      "Following a highly structured lecture."
+    ],
+    "answer": "Investigating complex, open-ended problems in groups."
+  },
+  {
+    "question": "Which active learning tool helps students visually organize relationships between symptoms and interventions?",
+    "options": [
+      "Role-playing.",
+      "Concept Mapping.",
+      "Traditional recitation.",
+      "Multiple-choice exams."
+    ],
+    "answer": "Concept Mapping."
+  },
+  {
+    "question": "A major benefit of active learning is 'Greater Adaptability,' which means:",
+    "options": [
+      "Students can memorize more facts.",
+      "Preparing students for unpredictable clinical environments.",
+      "Reducing the time needed for preparation.",
+      "Relying more on teacher instructions."
+    ],
+    "answer": "Preparing students for unpredictable clinical environments."
+  },
+  {
+    "question": "If an instructor uses a 'Flipped Classroom,' when do students typically review the lecture content?",
+    "options": [
+      "During the class session.",
+      "After the class as homework only.",
+      "Before coming to class.",
+      "During clinical rotations only."
+    ],
+    "answer": "Before coming to class."
+  },
+  {
+    "question": "Which strategy is specifically highlighted for building empathy and communication skills?",
+    "options": [
+      "Peer Teaching.",
+      "Role-Playing.",
+      "Concept Mapping.",
+      "Flipped Classroom."
+    ],
+    "answer": "Role-Playing."
+  },
+  {
+    "question": "Adult Learning Theory (Knowles) emphasizes that adults are motivated by:",
+    "options": [
+      "Passive learning environments.",
+      "Relevance and prior experience.",
+      "Rote memorization for exams.",
+      "Teacher-directed curriculum."
+    ],
+    "answer": "Relevance and prior experience."
+  },
+  {
+    "question": "In the Active Learning Cycle (Do-Review-Learn-Apply), 'Review' refers to:",
+    "options": [
+      "Memorizing the facts.",
+      "Reflecting on the experience.",
+      "Taking a final exam.",
+      "Following a policy."
+    ],
+    "answer": "Reflecting on the experience."
+  },
+  {
+    "question": "Which of the following is a solution for 'Faculty Resistance' to active learning?",
+    "options": [
+      "Using low-cost alternatives.",
+      "Providing training and peer support.",
+      "Increasing the number of lectures.",
+      "Using strictly traditional assessments."
+    ],
+    "answer": "Providing training and peer support."
+  },
+  {
+    "question": "A student is asked to 'Judge the value of a treatment plan.' This falls under which Bloom's level?",
+    "options": [
+      "Apply.",
+      "Understand.",
+      "Evaluate.",
+      "Create."
+    ],
+    "answer": "Evaluate."
+  },
+  {
+    "question": "Traditional curriculum design is often described as:",
+    "options": [
+      "Experiential and reflective.",
+      "Collaborative and social.",
+      "Content-heavy and simple-to-complex.",
+      "Student-centered and flexible."
+    ],
+    "answer": "Content-heavy and simple-to-complex."
+  },
+  {
+    "question": "Simulation-based learning allows students to practice in a:",
+    "options": [
+      "Real hospital without supervision.",
+      "Safe, controlled environment using mannequins or VR.",
+      "Traditional classroom using only textbooks.",
+      "Library setting with peer discussion."
+    ],
+    "answer": "Safe, controlled environment using mannequins or VR."
+  },
+  {
+    "question": "What is a suggested solution for 'Student Anxiety' in active learning?",
+    "options": [
+      "Making the tasks more difficult.",
+      "Creating a safe, supportive environment with gradual exposure.",
+      "Returning to traditional lecture methods.",
+      "Avoiding any peer interaction."
+    ],
+    "answer": "Creating a safe, supportive environment with gradual exposure."
+  },
+  {
+    "question": "Which active learning characteristic involves 'connecting theory to practice through hands-on activities'?",
+    "options": [
+      "Interactive",
+      "Reflective",
+      "Experiential",
+      "Learner-centered"
+    ],
+    "answer": "Experiential"
+  },
+  {
+    "question": "In the 'Planning Framework,' what is the very first step?",
+    "options": [
+      "Choose a strategy",
+      "Prepare materials",
+      "Define objectives",
+      "Evaluate outcomes"
+    ],
+    "answer": "Define objectives"
+  },
+  {
+    "question": "Case-Based Learning (CBL) is designed to develop:",
+    "options": [
+      "Speed in typing reports",
+      "Clinical reasoning and ethical judgment",
+      "Rote recall of anatomy",
+      "Passive listening skills"
+    ],
+    "answer": "Clinical reasoning and ethical judgment"
+  },
+  {
+    "question": "If a nursing school has no budget for high-tech simulators, what 'low-cost' active strategy does the text suggest?",
+    "options": [
+      "Traditional lecturing",
+      "Role-play and peer teaching",
+      "Abandoning active learning",
+      "Only using online forums"
+    ],
+    "answer": "Role-play and peer teaching"
+  },
+  {
+    "question": "In Bloom’s Taxonomy, 'Understand' means:",
+    "options": [
+      "Recalling facts",
+      "Using information in new situations",
+      "Knowing what the facts mean",
+      "Breaking down information"
+    ],
+    "answer": "Knowing what the facts mean"
+  },
+  {
+    "question": "Which active learning strategy involves senior students mentoring junior students?",
+    "options": [
+      "Case-Based Learning",
+      "Peer Teaching",
+      "Concept Mapping",
+      "Problem-Based Learning"
+    ],
+    "answer": "Peer Teaching"
+  },
+  {
+    "question": "What is a primary challenge of active learning regarding time?",
+    "options": [
+      "It makes the class end too early",
+      "It requires more preparation and classroom time",
+      "It eliminates the need for any time planning",
+      "It is only suitable for short 10-minute sessions"
+    ],
+    "answer": "It requires more preparation and classroom time"
+  },
+  {
+    "question": "Online discussion forums in nursing education help facilitate:",
+    "options": [
+      "Rote memorization",
+      "Peer feedback and collaborative learning",
+      "Traditional teacher-led instruction",
+      "Reduction in student participation"
+    ],
+    "answer": "Peer feedback and collaborative learning"
+  },
+  {
+    "question": "Active learning aims to 'Ignite High Order Thinking Power,' which includes:",
+    "options": [
+      "Only 'Remember' and 'Understand' levels",
+      "Analyze, Evaluate, and Create levels",
+      "Only passive listening",
+      "Following teacher directions without question"
+    ],
+    "answer": "Analyze, Evaluate, and Create levels"
+  },
+  {
+    "question": "Which strategy would be most effective for teaching a student how to handle a 'conflict with a patient's family'?",
+    "options": [
+      "Concept Mapping",
+      "Role-Playing",
+      "Reading a textbook chapter",
+      "A multiple-choice quiz"
+    ],
+    "answer": "Role-Playing"
+  },
+  {
+    "question": "The 'Transformative Impact' of active learning produces nurses who are:",
+    "options": [
+      "Clinically competent and emotionally intelligent",
+      "Only good at technical tasks",
+      "Dependent on teachers for every decision",
+      "Focused only on rote memorization"
+    ],
+    "answer": "Clinically competent and emotionally intelligent"
+  },
+  {
+    "question": "In the 'Managing a Patient with Stroke' sample activity, assessment includes:",
+    "options": [
+      "A 100-question final exam only",
+      "Group presentation and reflective journals",
+      "Passive observation by the teacher",
+      "No assessment is required"
+    ],
+    "answer": "Group presentation and reflective journals"
+  },
+  {
+    "question": "Traditional learning environment is described as:",
+    "options": [
+      "Interactive",
+      "Student-centered",
+      "Teacher-centered",
+      "Collaborative"
+    ],
+    "answer": "Teacher-centered"
+  },
+  {
+    "question": "An instructor asks students to 'create a new nursing care protocol' based on several studies. This is the level of:",
+    "options": [
+      "Remember",
+      "Apply",
+      "Create",
+      "Analyze"
+    ],
+    "answer": "Create"
+  },
+  {
+    "question": "Active facilitation by the teacher involves:",
+    "options": [
+      "Giving the students all the answers",
+      "Asking probing questions and encouraging reflection",
+      "Leaving the room while students work",
+      "Reading directly from the PowerPoint slides"
+    ],
+    "answer": "Asking probing questions and encouraging reflection"
+  },
+  {
+    "question": "Active learning helps students 'retain more information' because of:",
+    "options": [
+      "Increased hours of lecture",
+      "Engagement and application",
+      "Harder exams",
+      "Using only one textbook"
+    ],
+    "answer": "Engagement and application"
+  },
+  {
+    "question": "Which active learning strategy involves structured arguments on different sides of an issue?",
+    "options": [
+      "Debates",
+      "Concept Mapping",
+      "Peer Teaching",
+      "Case-Based Learning"
+    ],
+    "answer": "Debates"
+  },
+  {
+    "question": "'Instructional strategies' is another name for:",
+    "options": [
+      "Learning goals",
+      "Teaching strategies",
+      "Student tasks",
+      "Administrative policies"
+    ],
+    "answer": "Teaching strategies"
+  },
+  {
+    "question": "The focus of assessment in active learning is on:",
+    "options": [
+      "Memorization and recall",
+      "Application and reasoning",
+      "Number of pages read",
+      "Attendance only"
+    ],
+    "answer": "Application and reasoning"
+  },
+  {
+    "question": "Which theory emphasizes 'Social Interaction' as key to building knowledge?",
+    "options": [
+      "Traditional Theory",
+      "Constructivism (Piaget/Vygotsky)",
+      "Adult Learning Theory",
+      "Rote Learning Theory"
+    ],
+    "answer": "Constructivism (Piaget/Vygotsky)"
+  },
+  {
+    "question": "According to the conclusion, active learning is not just a method, but a:",
+    "options": [
+      "Policy",
+      "Luxury",
+      "Philosophy",
+      "Traditional approach"
+    ],
+    "answer": "Philosophy"
+  },
+  {
+    "question": " Traditional nursing education relies heavily on a simple-to-complex approach and covering content.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "In a 'Flipped Classroom,' students practice application at home and listen to lectures in class.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": " Active learning increases student motivation by giving them a sense of ownership over their learning.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": " Assessment in active learning is simpler and less subjective than traditional methods.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": " Concept Mapping is a visual tool that helps students see the connection between symptoms and care.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": " Traditional teaching strategies are learner-centered.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": " Constructivism suggests that learners build knowledge through experience and social interaction.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": " Role-playing is mainly used to practice technical surgical skills.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": " Peer Teaching involves students teaching each other under the supervision of a teacher.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": " Time constraints are a common challenge when implementing active learning.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  }
+]
