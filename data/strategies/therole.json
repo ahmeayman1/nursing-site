@@ -1,0 +1,482 @@
+[
+  {
+    "question": " the nurse educator is more than a transmitter of knowledge; they are also:",
+    "options": [
+      "An administrator and secretary.",
+      "A mentor, facilitator, role model, and strategist.",
+      "A clinical technician only.",
+      "A student counselor."
+    ],
+    "answer": "A mentor, facilitator, role model, and strategist."
+  },
+  {
+    "question": "Which role involves shaping nursing professionals to be 'competent, ethical, and reflective'?",
+    "options": [
+      "Evaluator",
+      "Curriculum Developer",
+      "The Nurse Educator",
+      "Technological Specialist"
+    ],
+    "answer": "The Nurse Educator"
+  },
+  {
+    "question": "A nurse educator is defined as a registered nurse with advanced education in:",
+    "options": [
+      "Hospital management",
+      "Surgical procedures",
+      "Teaching and curriculum development",
+      "Pharmacy and medicine"
+    ],
+    "answer": "Teaching and curriculum development"
+  },
+  {
+    "question": "Which of the following is NOT a setting where a nurse educator might work?",
+    "options": [
+      "Universities",
+      "Community health programs",
+      "Hospitals",
+      "Engineering firms"
+    ],
+    "answer": "Engineering firms"
+  },
+  {
+    "question": "The core role of 'Facilitator of Learning' focuses on:",
+    "options": [
+      "Designing content",
+      "Guiding students through active engagement and inquiry",
+      "Assessing student grades",
+      "Demonstrating professional behavior"
+    ],
+    "answer": "Guiding students through active engagement and inquiry"
+  },
+  {
+    "question": "Which core role involves 'assessing student performance and learning outcomes'?",
+    "options": [
+      "Mentor",
+      "Evaluator",
+      "Innovator",
+      "Strategist"
+    ],
+    "answer": "Evaluator"
+  },
+  {
+    "question": "An 'Innovator' in nursing education is one who:",
+    "options": [
+      "Adopts and adapts new teaching strategies and technologies",
+      "Only uses traditional methods",
+      "Ignores student feedback",
+      "Works only in isolation"
+    ],
+    "answer": "Adopts and adapts new teaching strategies and technologies"
+  },
+  {
+    "question": "In the 'Planning' responsibility, the educator must align strategies with:",
+    "options": [
+      "Hospital budgets",
+      "Objectives and student needs",
+      "Research deadlines",
+      "Personal preferences"
+    ],
+    "answer": "Objectives and student needs"
+  },
+  {
+    "question": "The 'Execution' responsibility is defined as:",
+    "options": [
+      "Modifying strategies based on feedback",
+      "Providing emotional support",
+      "Delivering content using appropriate methods like simulation",
+      "Using rubrics for assessment"
+    ],
+    "answer": "Delivering content using appropriate methods like simulation"
+  },
+  {
+    "question": "When an educator modifies strategies based on classroom dynamics, they are practicing:",
+    "options": [
+      "Evaluation",
+      "Adaptation",
+      "Planning",
+      "Execution"
+    ],
+    "answer": "Adaptation"
+  },
+  {
+    "question": "Which responsibility involves using 'rubrics and reflective tools'?",
+    "options": [
+      "Support",
+      "Adaptation",
+      "Evaluation",
+      "Planning"
+    ],
+    "answer": "Evaluation"
+  },
+  {
+    "question": "The 'Support' responsibility includes providing:",
+    "options": [
+      "New textbooks",
+      "Emotional and academic support to students",
+      "Financial funding",
+      "Technical repairs"
+    ],
+    "answer": "Emotional and academic support to students"
+  },
+  {
+    "question": "Understanding learning theories and instructional design falls under:",
+    "options": [
+      "Clinical Expertise",
+      "Communication Skills",
+      "Pedagogical Skills",
+      "Ethical Leadership"
+    ],
+    "answer": "Pedagogical Skills"
+  },
+  {
+    "question": "Integrating theory with clinical realities requires:",
+    "options": [
+      "Clinical Expertise",
+      "Technological Proficiency",
+      "Group dynamics management",
+      "E-learning platforms"
+    ],
+    "answer": "Clinical Expertise"
+  },
+  {
+    "question": "Active listening and constructive feedback are essential parts of:",
+    "options": [
+      "Ethical Leadership",
+      "Communication Skills",
+      "Pedagogical Skills",
+      "Clinical Expertise"
+    ],
+    "answer": "Communication Skills"
+  },
+  {
+    "question": "Technological Proficiency includes the use of:",
+    "options": [
+      "Only textbooks",
+      "E-learning platforms, simulation tools, and digital resources",
+      "Traditional blackboards",
+      "Only face-to-face lectures"
+    ],
+    "answer": "E-learning platforms, simulation tools, and digital resources"
+  },
+  {
+    "question": "Promoting 'integrity, fairness, and professionalism' is a key part of:",
+    "options": [
+      "Clinical Expertise",
+      "Ethical Leadership",
+      "Technical support",
+      "Planning"
+    ],
+    "answer": "Ethical Leadership"
+  },
+  {
+    "question": "In Simulation-Based Learning, the educator's role includes:",
+    "options": [
+      "Avoiding pre-briefing",
+      "Facilitating pre-briefing and debriefing",
+      "Leaving students to work alone",
+      "Focusing only on group roles"
+    ],
+    "answer": "Facilitating pre-briefing and debriefing"
+  },
+  {
+    "question": "Ensuring 'psychological safety' is specifically mentioned under:",
+    "options": [
+      "Collaborative Learning",
+      "E-Learning",
+      "Simulation-Based Learning",
+      "Planning"
+    ],
+    "answer": "Simulation-Based Learning"
+  },
+  {
+    "question": "In Case-Based Learning, the educator:",
+    "options": [
+      "Operates simulation manikins",
+      "Curates interactive digital modules",
+      "Guides discussion and critical thinking",
+      "Mediates group conflicts only"
+    ],
+    "answer": "Guides discussion and critical thinking"
+  },
+  {
+    "question": "Case-Based Learning encourages:",
+    "options": [
+      "Individual study only",
+      "Ethical reflection and interdisciplinary integration",
+      "Technical proficiency in VR",
+      "Ignoring diverse cases"
+    ],
+    "answer": "Ethical reflection and interdisciplinary integration"
+  },
+  {
+    "question": "In Collaborative Learning, the educator's task is to:",
+    "options": [
+      "Deliver a three-hour lecture",
+      "Organize group dynamics and roles",
+      "Monitor bandwidth",
+      "Provide only technical support"
+    ],
+    "answer": "Organize group dynamics and roles"
+  },
+  {
+    "question": "Mediating conflicts and ensuring equal participation occurs in:",
+    "options": [
+      "E-Learning",
+      "Simulation",
+      "Collaborative Learning",
+      "Case-Based Learning"
+    ],
+    "answer": "Collaborative Learning"
+  },
+  {
+    "question": "A role of the educator in E-Learning is:",
+    "options": [
+      "Mediating physical conflicts",
+      "Curating digital content and interactive modules",
+      "Organizing group seating",
+      "Designing physical labs"
+    ],
+    "answer": "Curating digital content and interactive modules"
+  },
+  {
+    "question": "In E-Learning, the educator must provide:",
+    "options": [
+      "Emotional support only",
+      "Timely feedback and technical support",
+      "No feedback",
+      "Traditional paper tests only"
+    ],
+    "answer": "Timely feedback and technical support"
+  },
+  {
+    "question": "What is the suggested response to 'Resistance to Change'?",
+    "options": [
+      "Force everyone to change immediately",
+      "Use evidence-based rationale and gradual integration",
+      "Ignore the resistance",
+      "Stop using new methods"
+    ],
+    "answer": "Use evidence-based rationale and gradual integration"
+  },
+  {
+    "question": "How should an educator respond to 'Resource Limitations'?",
+    "options": [
+      "Give up on technology",
+      "Use low-cost alternatives and advocate for funding",
+      "Charge students for tools",
+      "Use only traditional methods"
+    ],
+    "answer": "Use low-cost alternatives and advocate for funding"
+  },
+  {
+    "question": "Dealing with 'Student Diversity' requires:",
+    "options": [
+      "Standardized teaching for all",
+      "Differentiated instruction and inclusive strategies",
+      "Ignoring varied learning styles",
+      "Teaching only the best students"
+    ],
+    "answer": "Differentiated instruction and inclusive strategies"
+  },
+  {
+    "question": "Balancing teaching, clinical duties, and research can lead to:",
+    "options": [
+      "Resistance to change",
+      "Resource limitations",
+      "Workload and Burnout",
+      "Technological proficiency"
+    ],
+    "answer": "Workload and Burnout"
+  },
+  {
+    "question": "A suggested response to Burnout is:",
+    "options": [
+      "Working more hours",
+      "Time management, delegation, and institutional support",
+      "Avoiding research",
+      "Refusing to teach"
+    ],
+    "answer": "Time management, delegation, and institutional support"
+  },
+  {
+    "question": "Effective teaching strategies prepare students for:",
+    "options": [
+      "Only written exams",
+      "Real-world practice (Clinical Readiness)",
+      "Academic theory only",
+      "High tuition fees"
+    ],
+    "answer": "Real-world practice (Clinical Readiness)"
+  },
+  {
+    "question": "Educators shape students' 'values and attitudes' through:",
+    "options": [
+      "Academic success",
+      "Professional Identity Formation",
+      "Technical support",
+      "Resource management"
+    ],
+    "answer": "Professional Identity Formation"
+  },
+  {
+    "question": "Supportive educators help in:",
+    "options": [
+      "Increasing dropout rates",
+      "Reducing engagement",
+      "Reducing dropout rates and increasing engagement (Retention)",
+      "Creating conflicts"
+    ],
+    "answer": "Reducing dropout rates and increasing engagement (Retention)"
+  },
+  {
+    "question": "A best practice for nurse educators is to foster a learning environment that is:",
+    "options": [
+      "Competitive and strict",
+      "Respectful, inclusive, and interactive",
+      "Passive and quiet",
+      "Traditional only"
+    ],
+    "answer": "Respectful, inclusive, and interactive"
+  },
+  {
+    "question": "\"Reflective teaching\" is used to:",
+    "options": [
+      "Assess students",
+      "Improve continuously",
+      "Design rubrics",
+      "Increase workload"
+    ],
+    "answer": "Improve continuously"
+  },
+  {
+    "question": "Staying updated with educational research is considered a:",
+    "options": [
+      "Challenge",
+      "Skill",
+      "Best practice",
+      "Role of the student"
+    ],
+    "answer": "Best practice"
+  },
+  {
+    "question": "Educators should collaborate with peers for:",
+    "options": [
+      "Higher salaries",
+      "Interdisciplinary integration",
+      "Individual projects",
+      "Grading assignments"
+    ],
+    "answer": "Interdisciplinary integration"
+  },
+  {
+    "question": "The primary goal of aligning strategies with objectives is:",
+    "options": [
+      "To meet student needs and course goals",
+      "To save time",
+      "To follow hospital rules",
+      "To reduce the number of teachers"
+    ],
+    "answer": "To meet student needs and course goals"
+  },
+  {
+    "question": "Academic success is a direct impact of:",
+    "options": [
+      "Resource limitations",
+      "Educator effectiveness",
+      "Resistance to change",
+      "Student burnout"
+    ],
+    "answer": "Educator effectiveness"
+  },
+  {
+    "question": "High-fidelity video generation (Veo) or image generation in nursing education would be an example of:",
+    "options": [
+      "Traditional lecturing",
+      "Technological proficiency and Innovation",
+      "Resource limitation",
+      "Ethical leadership"
+    ],
+    "answer": "Technological proficiency and Innovation"
+  },
+  {
+    "question": "A nurse educator does not need to be a registered nurse.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "type": "True/False"
+  },
+  {
+    "question": "The 'Evaluator' role only involves checking attendance.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "type": "True/False"
+  },
+  {
+    "question": "Nurse educators only work in university settings.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "type": "True/False"
+  },
+  {
+    "question": "Modifying strategies based on classroom feedback is part of the 'Adaptation' responsibility.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+    "question": "Clinical expertise means having up-to-date knowledge of nursing practice and standards.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+    "question": " An educator is using a virtual reality headset to teach surgical procedures but the software keeps crashing. Which skill and which challenge are being highlighted here?",
+    "options": [
+      "Pedagogical Skill and Student Diversity",
+      "Technological Proficiency and Resource Limitations",
+      "Clinical Expertise and Resistance to Change",
+      "Ethical Leadership and Workload"
+    ],
+    "answer": "Technological Proficiency and Resource Limitations"
+  },
+  {
+    "question": "A student group is arguing about who should lead a case study. The educator steps in to mediate and assign roles. Which specific teaching strategy is being implemented?",
+    "options": [
+      "E-Learning",
+      "Collaborative Learning",
+      "Simulation",
+      "Evaluation"
+    ],
+    "answer": "Collaborative Learning"
+  },
+  {
+    "question": "After a simulation, an educator spends 30 minutes discussing what went well and what didn't. This process is known as:",
+    "options": [
+      "Planning",
+      "Debriefing",
+      "Pre-briefing",
+      "E-Learning"
+    ],
+    "answer": "Debriefing"
+  },
+  {
+    "question": "A teacher notices students learn differently—some like videos, some like reading. The teacher decides to provide both. This is an example of:",
+    "options": [
+      "Differentiated instruction to address Student Diversity",
+      "Resource limitations",
+      "Resistance to change",
+      "Ethical leadership"
+    ],
+    "answer": "Differentiated instruction to address Student Diversity"
+  },
+  {
+    "question": " An educator uses evidence from a recent study to convince the faculty to try a new digital tool. Which challenge-response pair are they demonstrating?",
+    "options": [
+      "Resource limitations – Advocacy",
+      "Resistance to change – Use evidence-based rationale",
+      "Burnout – Time management",
+      "Diversity – Inclusive strategies"
+    ],
+    "answer": "Resistance to change – Use evidence-based rationale"
+  }
+]
