@@ -1,1 +1,463 @@
-{}
+[
+  {
+    "question": "What is a primary driver of change in nursing education?",
+    "options": [
+      "Decreasing healthcare demands.",
+      "Technological advancements like AI, VR, and AR.",
+      "A return to teacher-centered models.",
+      "Traditional classroom methods."
+    ],
+    "answer": "Technological advancements like AI, VR, and AR."
+  },
+  {
+    "question": "why are traditional methods no longer sufficient?",
+    "options": [
+      "Because they are too expensive.",
+      "Due to the complexity and unpredictability of modern clinical environments.",
+      "Because students prefer playing games.",
+      "Because there are no more textbooks."
+    ],
+    "answer": "Due to the complexity and unpredictability of modern clinical environments."
+  },
+  {
+    "question": "What is the main benefit of AI-powered platforms in education?",
+    "options": [
+      "They replace the need for clinical practice.",
+      "They personalize learning paths and provide instant feedback.",
+      "They eliminate the need for global collaboration.",
+      "They only focus on teacher-centered instruction."
+    ],
+    "answer": "They personalize learning paths and provide instant feedback."
+  },
+  {
+    "question": "Which technology allows students to practice procedures in a fully immersive environment?",
+    "options": [
+      "Augmented Reality (AR).",
+      "Virtual Reality (VR).",
+      "Microlearning.",
+      "Flipped Classrooms."
+    ],
+    "answer": "Virtual Reality (VR)."
+  },
+  {
+    "question": "How does Augmented Reality (AR) assist in nursing training?",
+    "options": [
+      "It creates a completely fake world.",
+      "It overlays digital information onto real-world settings.",
+      "It replaces the teacher entirely.",
+      "It is only used for administrative tasks."
+    ],
+    "answer": "It overlays digital information onto real-world settings."
+  },
+  {
+    "question": "Gamification uses elements like points and levels to:",
+    "options": [
+      "Replace clinical exams.",
+      "Boost student engagement.",
+      "Reduce the need for studying.",
+      "Punish students who fail."
+    ],
+    "answer": "Boost student engagement."
+  },
+  {
+    "question": "Microlearning is characterized by:",
+    "options": [
+      "4-hour long lectures.",
+      "Short, focused modules accessible via smartphones.",
+      "Traditional paper-based exams.",
+      "Learning only in a classroom setting."
+    ],
+    "answer": "Short, focused modules accessible via smartphones."
+  },
+  {
+    "question": "In a Flipped Classroom model, students study theory:",
+    "options": [
+      "During class time with the teacher.",
+      "Independently before coming to class.",
+      "Only through virtual reality.",
+      "After the final exam is over."
+    ],
+    "answer": "Independently before coming to class."
+  },
+  {
+    "question": "Competency-Based Education (CBE) shifts the focus from time spent to:",
+    "options": [
+      "Total number of pages read.",
+      "Demonstrating mastery of real-world skills.",
+      "Student popularity.",
+      "Attendance records."
+    ],
+    "answer": "Demonstrating mastery of real-world skills."
+  },
+  {
+    "question": "The role of a Data-Informed Mentor involves:",
+    "options": [
+      "Building robots for hospitals.",
+      "Using analytics to track progress and personalize support.",
+      "Focusing only on traditional lectures.",
+      "Reducing the use of computers."
+    ],
+    "answer": "Using analytics to track progress and personalize support."
+  },
+  {
+    "question": "Which educator role ensures tech-enhanced learning remains humane and inclusive?",
+    "options": [
+      "Global Collaborator.",
+      "Ethical Guardian.",
+      "Facilitator of Innovation.",
+      "Data-Informed Mentor."
+    ],
+    "answer": "Ethical Guardian."
+  },
+  {
+    "question": "A primary benefit of Mobile and Hybrid learning models is:",
+    "options": [
+      "Lowering student IQ.",
+      "Flexibility for different lifestyles.",
+      "Eliminating the internet.",
+      "Focusing only on teacher needs."
+    ],
+    "answer": "Flexibility for different lifestyles."
+  },
+  {
+    "question": "What is a suggested solution for the Digital Divide?",
+    "options": [
+      "Forcing students to buy expensive gear.",
+      "Providing offline alternatives and institutional support.",
+      "Using complex algorithms.",
+      "Ignoring the issue."
+    ],
+    "answer": "Providing offline alternatives and institutional support."
+  },
+  {
+    "question": "How should educators solve the ethical concern of AI Bias?",
+    "options": [
+      "Stop using AI.",
+      "Use transparent and inclusive data sets.",
+      "Let AI decide everything.",
+      "Use AI only for grading."
+    ],
+    "answer": "Use transparent and inclusive data sets."
+  },
+  {
+    "question": "To address over-reliance on technology, educators should:",
+    "options": [
+      "Remove all technology.",
+      "Balance digital tools with interpersonal engagement.",
+      "Increase screen time.",
+      "Use technology for all lessons."
+    ],
+    "answer": "Balance digital tools with interpersonal engagement."
+  },
+  {
+    "question": "What is the definition of Green Nursing?",
+    "options": [
+      "Painting hospital walls green.",
+      "Caring for people and the planet simultaneously.",
+      "Using more plastic.",
+      "Focusing only on saving money."
+    ],
+    "answer": "Caring for people and the planet simultaneously."
+  },
+  {
+    "question": "Which is a role of a nurse in Green Nursing?",
+    "options": [
+      "Using single-use plastic whenever possible.",
+      "Properly separating medical waste.",
+      "Leaving all lights on.",
+      "Using toxic cleaners."
+    ],
+    "answer": "Properly separating medical waste."
+  },
+  {
+    "question": "Why is Green Nursing important?",
+    "options": [
+      "It reduces pollution and protects public health.",
+      "It modernizes hospitals.",
+      "It replaces doctors.",
+      "It is required everywhere by law."
+    ],
+    "answer": "It reduces pollution and protects public health."
+  },
+  {
+    "question": "An example of Green Nursing in practice is:",
+    "options": [
+      "Using reusable safely cleaned trays.",
+      "Throwing all waste together.",
+      "Printing all emails.",
+      "Using extra water."
+    ],
+    "answer": "Using reusable safely cleaned trays."
+  },
+  {
+    "question": "The Global Collaborator role involves:",
+    "options": [
+      "Teaching only local students.",
+      "International partnerships and virtual exchanges.",
+      "Avoiding the internet.",
+      "Traditional methods only."
+    ],
+    "answer": "International partnerships and virtual exchanges."
+  },
+  {
+    "question": "Which philosophy shifts education toward learner-centered models?",
+    "options": [
+      "Technology-centered.",
+      "Learner-centered.",
+      "Hospital-centered.",
+      "Budget-centered."
+    ],
+    "answer": "Learner-centered."
+  },
+  {
+    "question": "Gamification is commonly used in which nursing modules?",
+    "options": [
+      "Pharmacology, anatomy, and clinical reasoning.",
+      "Janitorial services.",
+      "Secretarial work.",
+      "Architecture."
+    ],
+    "answer": "Pharmacology, anatomy, and clinical reasoning."
+  },
+  {
+    "question": "Before full implementation of a new strategy, educators should:",
+    "options": [
+      "Apply it immediately.",
+      "Pilot it in small groups.",
+      "Ignore feedback.",
+      "Wait ten years."
+    ],
+    "answer": "Pilot it in small groups."
+  },
+  {
+    "question": "The core values of nursing that must be preserved are:",
+    "options": [
+      "Speed and technology.",
+      "Compassion, integrity, and service.",
+      "Profit and marketing.",
+      "Competition."
+    ],
+    "answer": "Compassion, integrity, and service."
+  },
+  {
+    "question": "What is the solution for privacy and data security concerns?",
+    "options": [
+      "Sharing data openly.",
+      "Secure platforms and informed consent.",
+      "Not collecting data.",
+      "Letting students manage databases."
+    ],
+    "answer": "Secure platforms and informed consent."
+  },
+  {
+    "question": "Green Nursing encourages choosing products that are:",
+    "options": [
+      "Cheap and disposable.",
+      "Eco-friendly and non-toxic.",
+      "Heavy plastic.",
+      "Imported from far away."
+    ],
+    "answer": "Eco-friendly and non-toxic."
+  },
+  {
+    "question": "One benefit of Competency-Based Education is:",
+    "options": [
+      "Longer graduation time.",
+      "Ensuring readiness for clinical practice.",
+      "Memorizing dates.",
+      "Using fewer teachers."
+    ],
+    "answer": "Ensuring readiness for clinical practice."
+  },
+  {
+    "question": "Hybrid classrooms combine:",
+    "options": [
+      "Doctors and nurses.",
+      "Online and face-to-face learning.",
+      "Science and art.",
+      "VR and AR only."
+    ],
+    "answer": "Online and face-to-face learning."
+  },
+  {
+    "question": "Nurses can save energy by:",
+    "options": [
+      "Running machines 24/7.",
+      "Turning off lights and taps when not needed.",
+      "Using more electricity.",
+      "Buying more computers."
+    ],
+    "answer": "Turning off lights and taps when not needed."
+  },
+  {
+    "question": "If a student progresses faster after mastering a skill, this reflects:",
+    "options": [
+      "Traditional Education.",
+      "Competency-Based Education.",
+      "Unfair treatment.",
+      "Flipped Learning."
+    ],
+    "answer": "Competency-Based Education."
+  },
+  {
+    "question": "Ensuring algorithms do not reinforce stereotypes reflects which role?",
+    "options": [
+      "Global Collaborator.",
+      "Ethical Guardian.",
+      "Facilitator of Innovation.",
+      "Clinical Instructor."
+    ],
+    "answer": "Ethical Guardian."
+  },
+  {
+    "question": "Using washable gowns to reduce plastic waste is an example of:",
+    "options": [
+      "Microlearning.",
+      "Green Nursing.",
+      "Hybrid Learning.",
+      "Virtual Reality."
+    ],
+    "answer": "Green Nursing."
+  },
+  {
+    "question": "Studying 5-minute videos on a phone during a bus ride is:",
+    "options": [
+      "Traditional lecture.",
+      "Microlearning/Mobile Learning.",
+      "VR simulation.",
+      "Competency-Based Education."
+    ],
+    "answer": "Microlearning/Mobile Learning."
+  },
+  {
+    "question": "Why does climate change affect nursing education?",
+    "options": [
+      "It has no effect.",
+      "It creates health challenges requiring globally aware nurses.",
+      "It heats classrooms.",
+      "It encourages plastic use."
+    ],
+    "answer": "It creates health challenges requiring globally aware nurses."
+  },
+  {
+    "question": "Chatbots and virtual tutors provide support:",
+    "options": [
+      "Only during office hours.",
+      "24/7.",
+      "Only for teachers.",
+      "Once a week."
+    ],
+    "answer": "24/7."
+  },
+  {
+    "question": "Global health challenges include:",
+    "options": [
+      "Pandemics, climate change, and migration.",
+      "Local hospital issues only.",
+      "Teacher salaries.",
+      "Reducing nursing students."
+    ],
+    "answer": "Pandemics, climate change, and migration."
+  },
+  {
+    "question": "The future of nursing education is described as:",
+    "options": [
+      "Only digital.",
+      "Human-centered and ethically grounded.",
+      "Strictly traditional.",
+      "Technology-only."
+    ],
+    "answer": "Human-centered and ethically grounded."
+  },
+  {
+    "question": "To stay updated, educators should engage in:",
+    "options": [
+      "Continuous professional development.",
+      "Old textbooks only.",
+      "Avoiding conferences.",
+      "Reducing clinical knowledge."
+    ],
+    "answer": "Continuous professional development."
+  },
+  {
+    "question": "VR allows students to practice in a:",
+    "options": [
+      "Real hospital.",
+      "Fully immersive environment.",
+      "Paper simulation.",
+      "Public park."
+    ],
+    "answer": "Fully immersive environment."
+  },
+
+  {
+    "question": "Traditional nursing education methods are sufficient for modern clinical needs.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "type": "True/False"
+  },
+  {
+    "question": "AI-powered platforms can offer adaptive quizzes.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+    "question": "Augmented Reality replaces the real world with a digital one.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "type": "True/False"
+  },
+  {
+    "question": "Green Nursing ignores patient care.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "type": "True/False"
+  },
+  {
+    "question": "Gamification can be used in Pharmacology.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+    "question": "Microlearning modules are ideal for busy students.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+    "question": "In a flipped classroom, class time is used for discussion and application.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+    "question": "Competency-Based Education relies on time spent in class.",
+    "options": ["True", "False"],
+    "answer": "False",
+    "type": "True/False"
+  },
+  {
+    "question": "Green Nursing can help save money by using fewer resources.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+    "question": "The future of nursing education is not just digital.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "type": "True/False"
+  },
+  {
+  "question": "A Data-Informed Mentor uses analytics to:",
+  "options": [
+    "Grade students faster.",
+    "Personalize student support.",
+    "Punish slow learners.",
+    "Sell student data to companies."
+  ],
+  "answer": "Personalize student support."
+}
+]
